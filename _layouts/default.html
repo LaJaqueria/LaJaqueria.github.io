@@ -10,7 +10,8 @@
     <![endif]-->
 
     <link rel="shortcut icon" type="image/png" href="../images/fav.png"/>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <script type="text/javascript"
@@ -51,7 +52,30 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          <div class="row">
+            <div class="col-sm">
+              <h4>Otra info</h4>
+            </div>
+
+            <div class="col-sm">
+              <h4>Información</h4>
+              <p>
+                {{site.info-asociacion.nombre-asociacion}}
+                <br>
+                {{site.info-asociacion.calle}}
+                <br>
+                {{site.info-asociacion.codigo-postal}}
+                <br>
+                {{site.info-asociacion.cif}}
+                <br>
+              </p>
+            </div>
+
+            <div class="col-sm">
+              <h4>Redes sociales</h4>
+              {% include svg-icons.html %}
+            </div>
+          </div>
         </footer>
       </div>
     </div>

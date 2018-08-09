@@ -10,6 +10,14 @@ favicon: /images/fav.png
 baseurl:  # the subpath of your site, e.g. /blog
 url: www.lajaqueria.org # the base hostname & protocol for your site, e.g. http://example.com
 
+# Información de la asociación que irá dentro de la web
+info-asociacion:
+  nombre-asociacion: Asociación La Jaquería
+  calle: Calle Albert Einstein 12
+  codigo-postal: 04700 El Ejido
+  cif: ES123456789
+
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
