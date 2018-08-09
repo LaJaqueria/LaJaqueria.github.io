@@ -16,6 +16,8 @@ info-asociacion:
   calle: Calle Albert Einstein 12
   codigo-postal: 04700 El Ejido
   cif: ES123456789
+  telefono: 666 666 666
+  horario: De lunes a domingo desde las 15:00 a 21:00
 
 
 # Includes an icon in the footer for each username you enter
