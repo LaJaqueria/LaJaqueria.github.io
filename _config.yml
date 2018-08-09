@@ -1,0 +1,42 @@
+name: La Jaqueria
+description: >- # this means to ignore newlines until "baseurl:"
+  El nuevo HackSpace de la provincia de Almería.
+
+# Main pic at top
+avatar: /images/logo.png
+#Favicon
+favicon: /images/fav.png
+
+baseurl:  # the subpath of your site, e.g. /blog
+url: www.lajaqueria.org # the base hostname & protocol for your site, e.g. http://example.com
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: lajaqueria@gmail.com
+  facebook:
+  flickr:
+  github: LaJaqueria
+  instagram:
+  linkedin: lajaqueria
+  pinterest:
+  rss:
+  twitter: LaJaqueria
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed
+
+
+  # Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
