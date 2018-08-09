@@ -70,7 +70,7 @@ p {
 
 a {
   color: $blue;
-  text-decoration: none;
+  text-decoration: none !important;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -290,7 +290,7 @@ footer {
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
     color: $white;
-    padding: 14px 16px; 
+    padding: 14px 16px;
 }
 
 table {
