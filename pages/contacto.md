@@ -16,7 +16,7 @@ permalink: /contacto/
       <h4>Información de contacto</h4>
 
       <div class="row">
-        <div class="col-sm">
+        <div class="col-xs">
         <i class="svg-icon-contact location"></i>
         </div>
         <div class="col-lg">
@@ -25,7 +25,7 @@ permalink: /contacto/
       </div>
 
       <div class="row">
-        <div class="col-sm">
+        <div class="col-xs">
         <i class="svg-icon-contact calendar"></i>
         </div>
         <div class="col-lg">
@@ -34,7 +34,7 @@ permalink: /contacto/
       </div>
 
       <div class="row">
-        <div class="col-sm">
+        <div class="col-xs">
         <i class="svg-icon-contact mail"></i>
         </div>
         <div class="col-lg">
@@ -43,7 +43,7 @@ permalink: /contacto/
       </div>
 
       <div class="row">
-        <div class="col-sm">
+        <div class="col-xs">
         <i class="svg-icon-contact phone"></i>
         </div>
         <div class="col-lg">
