@@ -19,6 +19,17 @@ info-asociacion:
   telefono: 666 666 666
   horario: De lunes a domingo desde las 15:00 a 21:00
 
+# Añadiendo colecciones para poder poner los post y las actividades de forma ordenada en la página de etiquetas
+collections:
+  category:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
