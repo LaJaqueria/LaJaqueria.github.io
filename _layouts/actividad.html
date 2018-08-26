@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{% assign day = page.date | date: "%d" %}
+{% assign month = months[m] %}
+{% assign year = page.date | date: "%Y" %}
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  <h4>{{page.user}} - {{day}} de {{month}} del {{year}} / {{page.locality}} </h4>
+
+  {{page.description}}
+
+  <hr class="large">
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <h3 id="localizacion">LOCALIZACIÓN</h3>
+
+  <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
+  <p>Fecha: <strong>{{day}} de {{month}} del {{year}}</strong></p>
+  <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
+
+</article>

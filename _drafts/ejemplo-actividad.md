@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: actividad
 
 #Datos del Evento
 title: "Título del evento"
