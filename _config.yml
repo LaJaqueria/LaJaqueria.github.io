@@ -18,6 +18,9 @@ info-asociacion:
   cif: ES123456789
   telefono: 666 666 666
   horario: De lunes a domingo desde las 15:00 a 21:00
+  link_calendario: http://bit.ly/calendario-LaJaqueria
+  iframe_calendario: http://bit.ly/iframe-calendario-LaJaqueria
+  
 
 # Añadiendo colecciones para poder poner los post y las actividades de forma ordenada en la página de etiquetas
 collections:
