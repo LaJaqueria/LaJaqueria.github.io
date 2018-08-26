@@ -31,6 +31,9 @@ defaults:
     values:
       layout: "category"
 
+# Para renderizar post <<futuros>> como por ejemplo actividades que pasan en el futuro
+future: true
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
