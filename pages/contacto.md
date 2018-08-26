@@ -6,7 +6,9 @@ permalink: /contacto/
 <div class="containter">
   <div class="row">
     <div class="col">
-    asdfasdf
+    [Aquí irá el formulario de contacto]
+    <br>
+    Puedes contactar con nosotros a través de nuestras redes sociales o nuestro correo electrónico
     </div>
     <div class="col-4">
 
