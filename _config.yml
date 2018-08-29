@@ -1,4 +1,4 @@
-name: La Jaqueria
+name: La Jaquería
 description: >- # this means to ignore newlines until "baseurl:"
   El nuevo HackSpace de la provincia de Almería.
 
@@ -12,15 +12,15 @@ url: www.lajaqueria.org # the base hostname & protocol for your site, e.g. http:
 
 # Información de la asociación que irá dentro de la web
 info-asociacion:
-  nombre-asociacion: Asociación La Jaquería
-  domicilio-social: Plaza Derechos Humanos, 1.
-  codigo-postal: 04003, Almería
-  cif: 
-  telefono: 
-  horario: Viernes por la tarde: Colegio Liceo Erasmus. C/ Adolfo Marsillac, 12. Almería (Vega de Acá)
-  link_calendario: http://bit.ly/calendario-LaJaqueria
-  iframe_calendario: http://bit.ly/iframe-calendario-LaJaqueria
-  
+  nombre-asociacion: "Asociación La Jaquería"
+  domicilio-social: "Plaza Derechos Humanos, 1."
+  codigo-postal: "04003, Almería"
+  cif:
+  telefono:
+  horario: "Viernes por la tarde: Colegio Liceo Erasmus. C/ Adolfo Marsillac, 12. Almería (Vega de Acá)"
+  link_calendario: "http://bit.ly/calendario-LaJaqueria"
+  iframe_calendario: "http://bit.ly/iframe-calendario-LaJaqueria"
+
 
 # Añadiendo colecciones para poder poner los post y las actividades de forma ordenada en la página de etiquetas
 collections:
