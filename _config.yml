@@ -13,11 +13,11 @@ url: www.lajaqueria.org # the base hostname & protocol for your site, e.g. http:
 # Información de la asociación que irá dentro de la web
 info-asociacion:
   nombre-asociacion: Asociación La Jaquería
-  calle: Calle Albert Einstein 12
-  codigo-postal: 04700 El Ejido
-  cif: ES123456789
-  telefono: 666 666 666
-  horario: Los viernes por la tarde, en el Colegio Liceo Erasmus
+  domicilio social: Plaza Derechos Humanos, 1.
+  codigo-postal: 04003, Almería
+  cif: 
+  telefono: 
+  horario: Viernes por la tarde: Colegio Liceo Erasmus. C/ Adolfo Marsillac, 12. Almería (Vega de Acá)
   link_calendario: http://bit.ly/calendario-LaJaqueria
   iframe_calendario: http://bit.ly/iframe-calendario-LaJaqueria
   
