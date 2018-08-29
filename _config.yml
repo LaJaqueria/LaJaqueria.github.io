@@ -13,7 +13,7 @@ url: www.lajaqueria.org # the base hostname & protocol for your site, e.g. http:
 # Información de la asociación que irá dentro de la web
 info-asociacion:
   nombre-asociacion: Asociación La Jaquería
-  domicilio social: Plaza Derechos Humanos, 1.
+  domicilio-social: Plaza Derechos Humanos, 1.
   codigo-postal: 04003, Almería
   cif: 
   telefono: 
