@@ -22,7 +22,7 @@ permalink: /contacto/
         <i class="svg-icon-contact location"></i>
         </div>
         <div class="col-lg">
-        {{site.info-asociacion.calle}} {{site.info-asociacion.codigo-postal}}
+        {{site.info-asociacion.domicilio-social}} {{site.info-asociacion.codigo-postal}}
         </div>
       </div>
 
