@@ -10,13 +10,39 @@ description: ""
 startDate: 2018-09-21T18:00
 endDate: 2018-09-21T21:00
 
-{% include lugar.html %}
+#Lugar
+place: "Liceo ERASMUS Bilingual School"
+street: "Calle Adolfo Marsillach, 12"
+locality: "Almería"
+postalCode: "04002"
+map: https://goo.gl/maps/ccEReJxB1HH2
 
 category: actividades
 user: La Jaquería
 ---
 
-{% include iniciacion-a-la-programacion.html %}
-{% include pie-de-actividad.html %}
+### DESCRIPCIÓN
+
+descripcion
 
 ---
+
+### ¿DE QUÉ HABLAREMOS?
+
+de que hablaremos
+
+---
+
+### PROGRAMA
+
+| 18:00-19:00   | Primera hora |
+| 19:00-21:00   | resto del tiempo |
+
+---
+
+### DESPUÉS DEL EVENTO
+
+Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías.
+
+---
+
