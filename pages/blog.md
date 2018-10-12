@@ -14,7 +14,7 @@ permalink: /blog/
         {% if post.description %}
           {{ post.description }}
         {% else %}
-          {{ post.excerpt }}
+          {{ post.content | strip_html | truncatewords: 50 }}
         {% endif %}
       </div>
 
