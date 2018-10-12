@@ -4,7 +4,7 @@ permalink: /blog/
 ---
 
 <div class="posts">
-  {% for post in site.posts.post %}
+  {% for post in site.categories.post %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
