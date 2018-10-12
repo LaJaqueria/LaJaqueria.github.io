@@ -29,5 +29,12 @@ permalink: /sesiones/
             {% endfor %}
         </ul>
     </div>
+    <div class="col-md-6">
+	<h2>Te apuntas?</h2>
+	Las sesiones temáticas estan destinadas a la puesta en común de un conjunto de herramientas (mentales, digitales, ...) que nos 
+	permitan trabajar juntos. La asistencia es libre para socios y la Comunidad Educativa del Colegio Liceo Erasmus, pero estamos
+	abiertos a la participación (exponer proyectos, difundir tecnologías de preferencia, ...) de todas aquellas personas que quieran
+	integrarse en esta comunidad.
+    </div>
 
 </div>
