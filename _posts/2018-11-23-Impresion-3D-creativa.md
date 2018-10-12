@@ -2,13 +2,13 @@
 layout: actividad
 
 #Datos del Evento
-title: "Iniciación a la programación"
-subtitle: "21 de Septiembre / Liceo Erasmus, Almería"
-description: "desde una variable a compilar, paso a paso"
+title: "Impresión 3D creativa"
+subtitle: "23 de Noviembre/ Liceo Erasmus, Almería"
+description: "diseño, y todas las facetas de la fabricación digital"
 
 #Fecha
-startDate: 2018-09-21T18:00
-endDate: 2018-09-21T21:00
+startDate: 2018-11-23T18:00
+endDate: 2018-11-23T21:00
 
 #Lugar
 place: "Liceo ERASMUS Bilingual School"
@@ -21,6 +21,4 @@ category: actividades
 user: La Jaquería
 ---
 
-{% include iniciacion-a-la-programacion.md %}
----
-
+{% include impresion-3d-creativa.md %}

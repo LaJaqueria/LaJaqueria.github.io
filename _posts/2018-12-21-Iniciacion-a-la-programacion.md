@@ -3,12 +3,12 @@ layout: actividad
 
 #Datos del Evento
 title: "Iniciación a la programación"
-subtitle: "21 de Septiembre / Liceo Erasmus, Almería"
+subtitle: "21 de Diciembre/ Liceo Erasmus, Almería"
 description: "desde una variable a compilar, paso a paso"
 
 #Fecha
-startDate: 2018-09-21T18:00
-endDate: 2018-09-21T21:00
+startDate: 2018-12-21T18:00
+endDate: 2018-12-21T21:00
 
 #Lugar
 place: "Liceo ERASMUS Bilingual School"

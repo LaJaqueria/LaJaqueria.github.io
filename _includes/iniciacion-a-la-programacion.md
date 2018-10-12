@@ -16,6 +16,6 @@ Sólo necesitas traer tu propio portátil para poder instalar el entorno python;
 
 ### PROGRAMA
 
-| 18:00-19:00   | Presentaciones de los proyectos |
+| 18:00-19:00   | Charla taller |
 | 19:00-21:00   | Trabajo en el taller en proyectos |
 
