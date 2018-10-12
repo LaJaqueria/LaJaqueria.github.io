@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blog/
+permalink: /anotaciones/
 ---
 
 <div class="posts">
