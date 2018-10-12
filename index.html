@@ -16,8 +16,7 @@ Pero además, esetimulando lo colectivo tanto como lo personal, la cercanía ent
 
     <div class="col-md-4">
 
-        <h3>Actividades</h3>
-        <h5><strong>Próximas actividades</strong></h5>
+        <h3>Próximas Actividades</h3>
         {% assign curDate = site.time | date: "%Y-%m-%d" %}
         <ul>
             {% for post in site.categories.actividades reversed %}
@@ -28,5 +27,17 @@ Pero además, esetimulando lo colectivo tanto como lo personal, la cercanía ent
             {% endfor %}
         </ul>
         <p><a href="/sesiones" class="button">Ver las actividades</a></p>
+	<h3>Anotaciones</h3>
+        {% assign curDate = site.time | date: "%Y-%m-%d" %}
+        <ul>
+            {% for post in site.categories.post limit:3 %}
+            {% assign date = post.date | date: "%Y-%m-%d" %}
+            {% if date <= curDate %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+        <p><a href="/blog" class="button">Ver las anotaciones</a></p>
+	
     </div>
 </div>
