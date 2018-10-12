@@ -21,28 +21,10 @@ category: actividades
 user: La Jaquería
 ---
 
-### DESCRIPCIÓN
+### TITULO
 
-descripcion
+contenido
 
----
-
-### ¿DE QUÉ HABLAREMOS?
-
-de que hablaremos
-
----
-
-### PROGRAMA
-
-| 18:00-19:00   | Primera hora |
-| 19:00-21:00   | resto del tiempo |
-
----
-
-### DESPUÉS DEL EVENTO
-
-Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías.
-
+{% include iniciacion-a-la-programacion.html %}
 ---
 
