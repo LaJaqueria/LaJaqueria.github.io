@@ -10,13 +10,13 @@ description: ""
 startDate: 2018-09-21T18:00
 endDate: 2018-09-21T21:00
 
-{% include lugar.md %}
+{% include lugar.html %}
 
 category: actividades
 user: La Jaquería
 ---
 
-{% include iniciacion-a-la-programacion.md %}
-{% include pie-de-actividad.md %}
+{% include iniciacion-a-la-programacion.html %}
+{% include pie-de-actividad.html %}
 
 ---
