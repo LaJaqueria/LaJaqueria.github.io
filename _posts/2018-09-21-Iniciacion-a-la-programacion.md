@@ -21,10 +21,6 @@ category: actividades
 user: La Jaquería
 ---
 
-### TITULO
-
-contenido
-
-{% include iniciacion-a-la-programacion.html %}
+{% include iniciacion-a-la-programacion.md %}
 ---
 
