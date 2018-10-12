@@ -20,7 +20,7 @@ map: https://goo.gl/maps/ccEReJxB1HH2
 category: actividades
 user: Python Almería
 ---
-        <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" alt="python" height="300" width="300" class="center" /></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" alt="python" height="300" width="300" class="center" /></p>
 
 <h3 id="descripción">DESCRIPCIÓN</h3>
 
