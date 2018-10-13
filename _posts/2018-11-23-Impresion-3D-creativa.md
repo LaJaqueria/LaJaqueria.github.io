@@ -2,7 +2,7 @@
 layout: actividad
 
 #Datos del Evento
-title: "Impresión 3D creativa"
+title: "Impresión 3D creativa (3)"
 subtitle: "23 de Noviembre/ Liceo Erasmus, Almería"
 description: "diseño, y todas las facetas de la fabricación digital"
 

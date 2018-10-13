@@ -2,7 +2,7 @@
 layout: actividad
 
 #Datos del Evento
-title: "Iniciación a la programación"
+title: "Iniciación a la programación (3)"
 subtitle: "16 de Noviembre/ Liceo Erasmus, Almería"
 description: "desde una variable a compilar, paso a paso"
 
