@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Main pic at top
 avatar: /images/logo.png
 #Favicon
-favicon: /images/nofav.png
+favicon: /images/favicon.png
 
 baseurl:  # the subpath of your site, e.g. /blog
 url: www.lajaqueria.org # the base hostname & protocol for your site, e.g. http://example.com
