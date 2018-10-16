@@ -1,9 +1,9 @@
 name: La Jaquería
 description: >- # this means to ignore newlines until "baseurl:"
-  ¿¿¿ sæcio, que tienen un hackspace en Almería ???
+  ¿¿¿ sæcio, que estan montando un hackspace en Almería ???
 
 # Main pic at top
-avatar: /images/nologo.png
+avatar: /images/logo.png
 #Favicon
 favicon: /images/nofav.png
 
