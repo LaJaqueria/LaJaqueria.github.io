@@ -18,9 +18,6 @@ info-asociacion:
   cif:
   telefono:
   horario: "Viernes por la tarde: Colegio Liceo Erasmus. C/ Adolfo Marsillac, 12. Almería (Vega de Acá)"
-#  link_calendario: "http://bit.ly/calendario-LaJaqueria"
-#  iframe_calendario: "http://bit.ly/iframe-calendario-LaJaqueria"
-
 
 # Añadiendo colecciones para poder poner los post y las actividades de forma ordenada en la página de etiquetas
 collections:
