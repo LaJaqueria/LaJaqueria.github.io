@@ -18,7 +18,7 @@ postalCode: "04002"
 map: https://goo.gl/maps/ccEReJxB1HH2
 
 category: actividades
-user:  @Zerasul 
+user:  Zerasul 
 ---
 
 {% include electronica-educativa.md %}
