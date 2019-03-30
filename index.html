@@ -20,14 +20,19 @@ Todo ello estimulando lo colectivo tanto como lo personal, la cercanía entre ig
         <h3>Próximas Actividades</h3>
         {% assign curDate = site.time | date: "%Y-%m-%d" %}
         <ul>
-            {% for post in site.categories.actividades reversed %}
+	    {% assign losposts = site.categories.actividades | sort  %}
+		{% assign i = 0 %}
+            {% for post in losposts %}
             {% assign date = post.date | date: "%Y-%m-%d" %}
-            {% if date >= curDate %}
+            {% if date >= curDate  %}
+     		{% assign i = i | plus:1 %}
+                  {% if i <4 %}
             <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
             {% endif %}
             {% endfor %}
         </ul>
-        <p><a href="/sesiones" class="button">Ver las actividades</a></p>
+        <p><a href="/sesiones" class="button">Ver todas las actividades</a></p>
 	<h3>Anotaciones</h3>
         {% assign curDate = site.time | date: "%Y-%m-%d" %}
         <ul>
@@ -38,7 +43,7 @@ Todo ello estimulando lo colectivo tanto como lo personal, la cercanía entre ig
             {% endif %}
             {% endfor %}
         </ul>
-        <p><a href="/anotaciones" class="button">Ver las anotaciones</a></p>
+        <p><a href="/anotaciones" class="button">Ver todas las anotaciones</a></p>
 	
     </div>
 </div>
