@@ -7,8 +7,8 @@ subtitle: "La Serpiente en la palma de la Mano"
 description: "Una instroducción a MicroPython para microcontroladores. Que nos permitirá poder programar en el lenguaje de programación Python en un dispositivo que cabe en nuestra mano y que permite conectar cualquier dispositivo a Internet."
 
 #Fecha
-startDate: 2019-04-27T11:00
-endDate: 2019-04-27T13:00
+startDate: 2019-04-27T17:00
+endDate: 2019-04-27T19:00
 
 #Lugar
 place: "Liceo ERASMUS Bilingual School"
