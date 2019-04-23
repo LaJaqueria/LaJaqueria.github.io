@@ -16,9 +16,9 @@ La revolución Ardunio se expande con estos módulos programables en Python. En 
 
 Contenido del tema:
 
-1.- Instalación del entorno
-2.- ESP32 o ESP8266 
-3.- Flashear la placa (AKA. Instalar MicroPython en ella)
-4.- Primeros pasos en MicroPython
-5.- Botones con Micropython
-6.- Proyecto Final: Medidor de Temperatura y Humedad
+1. Instalación del entorno
+2. ESP32 o ESP8266 
+3. Flashear la placa (AKA. Instalar MicroPython en ella)
+4. Primeros pasos en MicroPython
+5. Botones con Micropython
+6. Proyecto Final: Medidor de Temperatura y Humedad
