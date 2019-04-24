@@ -74,3 +74,56 @@ Seguidamente vamos a dejar el PinOut de las 2 placas (este puede cambiar según 
 
 **NOTA**: Consultar el fabricante para poder saber el pinout.
 
+## 3. Flashear la placa
+
+Una vez tenemos ya preparado nuestro entorno y nuestra placa, vamos a pasar a instalar microPython en ella. Normalmente estos microcontroladores vienen con LUA instalado; pero nosotros vamos a instalar MicroPython para poder utilizarlo en nuestros desarrollos.
+
+Para este apartado necesitaremos un cable USB (MicroUSB) que necesitaremos conectar a nuestro Portatil.
+
+En primer lugar, vamos a descargar la última versión de MicroPython que podemos encontrar en los siguientes enlaces (Dependiendo del modelo de nuestra placa):
+
+* [ESP8266](https://micropython.org/download#esp8266)
+* [ESP32](https://micropython.org/download#esp32)
+
+Una dez descargado vamos a utilizar UPyCraft para instalar la imagen de MicroPython en nuestra placa.
+
+Para flashear nuestra placa desde UPyCraft usaremos el menu de _Tools->BurnFirmWare_.
+
+![BurnFirmware](/recursos/2019-04-27/burnfirmware.PNG)
+
+Como podemos ver en la anterior figura, tenemos que tener en cuenta los siguientes casos:
+
+* **board**: Modelo de la placa (ESP32 o ESP8266).
+* **burn_addr**: Indica la dirección desde la cual se empezara a flashear. Para la ESP8266 dejar en 0x0 pero es muy importante que para la **ESP32 se debe dejar en la dirección 0x1000**.
+* **erase_flash**: Indica si se debe borrar antes la memoria de la placa. La primera vez que lo hagamos le indicaremos que si.
+* **com**: Indica el puerto a utilizar. Pondremos el que tiene la placa asignado.
+
+En el apartado _Firmware Choose_ Se pondra la versión Users y se pondrá la ruta donde se encuentra la imagen que hemos descargado.
+
+**NOTA 1:** Se puede usar la implementación de UPyCraft.
+
+**NOTA 2:** En caso de ser necesario se dejan aquí los pasos para flashear la placa de forma manual.
+
+1. Abrir una terminal
+2. Instalar el siguiente modulo de Python (Requiere Pip):
+
+```bash
+ pip install esptool
+```
+3. Ejecutar el siguiente comando para borrar la memoria
+
+```bash
+esptool.py --port COM3 erase_flash
+```
+
+**NOTA 3:** En el anterior comando cambiar COM3 por el puerto que corresponda en nuestro equipo. Esto puede cambiar dependiendo del equipo y del sistema operativo.
+
+4. Ejecutar el siguiente comando para flashear la placa
+
+```bash
+esptool.py --port COM3 --baud 115200 write_flash --flash_size=detect 0 <imagendescargada>
+```
+
+**NOTA 4:** < Imagen descargada> se refiere a la ruta donde tengamos la imagen que hemos descargado de MicroPython.
+
+Una vez hecho esto, ya podemos utilizar nuestra placa usando MicroPython a través de UPyCraft; para ello usaremos el menú _Tools->port_; observaremos en la parte inferior el simbolo _>>>_ esto quiere decir que la consola esta lista y esperando ordenes.
