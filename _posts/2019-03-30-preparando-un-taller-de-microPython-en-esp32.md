@@ -126,4 +126,118 @@ esptool.py --port COM3 --baud 115200 write_flash --flash_size=detect 0 <imagende
 
 **NOTA 4:** < Imagen descargada> se refiere a la ruta donde tengamos la imagen que hemos descargado de MicroPython.
 
-Una vez hecho esto, ya podemos utilizar nuestra placa usando MicroPython a través de UPyCraft; para ello usaremos el menú _Tools->port_; observaremos en la parte inferior el simbolo _>>>_ esto quiere decir que la consola esta lista y esperando ordenes.
+Una vez hecho esto, ya podemos utilizar nuestra placa usando MicroPython a través de UPyCraft; para ello usaremos el menú _Tools->port_; observaremos en la parte inferior el simbolo ```>>>``` esto quiere decir que la consola esta lista y esperando ordenes.
+
+## 4.  Primeros pasos con MicroPython
+
+MicroPython es una implementación del lenguaje de programación python, que esta orientada a dispositivos con muy pocos recursos; como pueden ser microcontroladores.
+
+Micropython se compone de un compilador y un interprete en tiempo de ejecución que funciona en el hardware de un microcontrolador.
+
+Desde que apareció a través de un KickStater por 2013, se ha podido exportar a distintas plataformas y arquitecturas basadas en ARM. Como puede ser Arduino, ESP8266, ESP32 y otras placas como la llamada [Microbit](https://microbit.org/es/) de la BBC.
+
+Tras haber instalado MicroPython en nuestra placa, vamos a utilizar UPyCraft para poder comunicarnos con el interprete de MicroPython.
+
+![upycraftrepl](/recursos/2019-04-27/upycraftrepl.PNG)
+
+Como podemos ver en la anterior figura, en la parte inferior, tenemos el interprete Python en el cual podemos escribir en tiempo de ejecución para que nuestra placa lo ejecute.
+
+También podemos ver los ficheros que tenemos en local y en nuestra placa. Esto lo podemos ver en la parte izquierda donde en la carpeta _workspace_ podemos ver los ficheros locales (tendremos que definir una carpeta donde estara el workspace); y en la carpeta _device_ podemos ver los ficheros que hay en nuestra placa.
+
+**NOTA:** En caso de no ver ningún fichero seleccionar la opción del menú _File-> Reflush Directory_.
+
+En la parte derecha también podemos ver una barra de herramientas con todo lo necesario para trabajar con MicroPython; como puede ser el ejecutar un fichero, guardar,etc...
+
+Una vez nos hemos familiarizado con el entorno, vamos a crear nuestro primer fichero python para MicroPython. Para ello creamos un nuevo fichero; que llamaremos _hola.py_ pulsando el menú _File->new_ o el botón de la derecha.
+
+Escribimos el siguiente código:
+
+```python
+
+from machine import Pin
+from time import sleep
+#El Pin del led es el 2 que corresponde al GPIO2
+
+ledpin=2
+pin = Pin(ledpin, Pin.OUT)
+while True:
+  pin.value(1)
+  sleep(1)
+  pin.value(0)
+  sleep(1)
+```
+
+Una vez que hemos terminado y guardado nuestro fichero, vamos a subirlo a la placa; pulsando en el menú _Tools->DownloadAndRun_ o en la opción de la barra de herramientas (También es la tecla F5).
+
+Observaremos como el led que trae la propia placa parpadea. Esto quiere decir que nuestro programa se esta ejecutando en MicroPython. Para parar el programa, pulsar ctrl+C.
+
+Hemos podido ver que en el anterior código se usaba la clase ```Pin``` la cual nos permite tanto dar un valor como leer un pin como entrada o como salida. 
+
+La función ```sleep``` para la ejecución tantos segundos como se especifica.
+
+Una vez nos hemos familiarizado con MicroPython, vamos a hacer nuestro primer cirtuito; donde crearemos 2 leds que parpadean con distinta intensidad.
+
+Por lo que necesitaremos:
+
+* Placa ESP32 o ESP8266.
+* 2 BreadBoard.
+* 2 Resistencias de 220Ohmios minimo.
+* 2 Leds
+* Cables
+
+
+Seguidamente mostramos el montaje:
+
+![esquema1](/recursos/2019-04-27/esquema1.png)
+
+Y este es el código que permite que los 2 leds parpadeen:
+
+```python
+
+from machine import Pin
+from time import sleep
+
+ledpin=2
+ledpin2=4
+pin = Pin(ledpin, Pin.OUT)
+pin2 = Pin(ledpin2, Pin.OUT)
+while True:
+  pin.value(1)
+  pin2.value(1)
+  sleep(1)
+  pin.value(0)
+  pin2.value(0)
+  sleep(1)
+
+```
+## 5. Botones con MicroPython
+
+Tras ver como utilizar la salida a través de los leds; vamos a tratar de utilizar pulsadores para poder utilizar las entradas del microcontrolador. En este caso también utilizaremos la clase ```Pin```pero en este caso configuraremos cada puerto en modo IN.
+
+Seguidamente mostramos un nuevo montaje:
+
+![montaje2](https://raw.githubusercontent.com/pythoncanarias/upython/master/imagenes/button.png)
+
+y Aquí se muestra el Código:
+
+```python
+from machine import Pin
+import time
+
+button=Pin(2,Pin.IN)
+led=Pin(16,Pin.OUT)
+
+while True:
+    state=button.value()
+    led.value(state)
+    time.sleep(0.5)
+```
+
+Tras ver este ejercicio, aquí teneís otro montaje:
+
+![montaje2](/recursos/2019-04-27/montaje2.png)
+
+El código tendréis que hacerlo vosotros...
+
+
+
