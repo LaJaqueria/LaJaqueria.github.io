@@ -239,5 +239,47 @@ Tras ver este ejercicio, aquí teneís otro montaje:
 
 El código tendréis que hacerlo vosotros...
 
+## 6. Proyecto Final: Medidor de Temperatura y Humedad
 
+Tras habernos familiarizado con MicroPython, vamos a crear un pequeño medidor de Temperatura y Humedad; usando el componente DHT el cual permite medir temperatura y humedad de forma sencilla.
 
+Para este proyecto necesitaremos:
+
+* 1 Placa ESP32 o ESP8266.
+* 2 BreadBoard
+* 1 DHT11 o DHT22.
+* 1 Resistencia 220Ohmios
+* 1 Led
+* cables
+
+Seguidamente se muestra el Montaje:
+
+![montaje3](/recursos/2019-04-27/montaje3.png)
+
+Como podeis ver, en este montaje usaremos el led para indicar que la humedad o temperatura ha subido.
+
+Aquí esta el código fuente de este proyecto:
+
+```python
+import dht
+from machine import Pin
+
+pindht = Pin(0)
+ledpin = Pin(2, Pin.OUT)
+dht11 = dht.DHT11(pindht)
+
+while True:
+  temp = dht11.temperature()
+  hum = dht11. humidity()
+  if temp > 24 or hum > 55:
+    ledpin.value(1)
+  else:
+    ledpin.value(0)
+
+```
+
+## Referencias
+
+* [Python Canarias](https://github.com/pythoncanarias/upython)
+* [Documentacion MicroPython](https://docs.micropython.org/en/latest/index.html)
+* [UPyCraft](https://github.com/DFRobot/uPyCraft)
