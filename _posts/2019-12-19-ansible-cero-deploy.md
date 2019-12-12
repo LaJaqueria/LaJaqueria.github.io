@@ -20,21 +20,78 @@ category: actividades
 user: varios
 ---
 Ansible es una herramienta para automatizar tareas repetitivas, y asi asegurar que nuestos sistemas se encuentran en el estado definido
-# que necesitas?
+# ¿Qué necesitas?
 
-deberias tener acceso a una linea de comandos desde la que instalar ansible con pip, o la paqueteria de tu distribucion favorita
+Deberias de tener acceso a una linea de comandos desde la que instalar ansible con pip, o la paqueteria de tu distribucion favorita
 
-tambien seria bueno que tuvises alguna maquina virtual con la que "jugar" con los playbooks que vamos a desarrollar
+Tambien seria bueno que tuvises alguna maquina virtual con la que "jugar" con los playbooks que vamos a desarrollar
 
-si tienes una raspi a mano, tambien puede ser interesante como lugar de experimentacion
+Si tienes una raspi a mano, tambien puede ser interesante como lugar de experimentacion
 
 
-# a quien va dirigida esta charla?
+# ¿A quién va dirigida esta charla?
 
 - a los sysadmins que automatizan tareas con scripts bash, pero quisieran poder leer su propio codigo cuando vuelven a el al cabo de unos meses
 - a los usuarios de sistemas que instalan aplicaciones como quien se pasea por un laberinto, y sienten que deberian de ir dejando un rastro de miguitas de pan para poder salir
 - a quienes sientan curiosidad por la idea DevOps
 - a los desarrolladores que quisieran dar fuerza de ley al argumento universal "en mi maquina funciona"
 
----
+# ¿De qué hablaremos?
+a) cultura y conocimiento compartido
+- "...está lleno de estrellas!"
+- neo siguiendo al conejo blanco
+- heroes de la revolucion digital
+- ¿cuántas máquinas puede gestionar un sysadmin?
+- el sysadmin automático
+- autoservicio de superpoderes
+- control de versiones, control de daños
 
+b) "en hombros de gigantes"
+- makefiles para todos!
+- cfengine, y la abstracción
+- segunda generación(puppet y chef): simplificando y abstrayendo
+- tercera generación(ansible): pragmatismo 
+- ansible como frontend al mundo
+
+c) amasando y fermentando
+- inventario
+- nodos
+- llaves
+- ad-hoc commands
+- yaml
+- playbooks
+- facts
+- debug msg
+- modulos (ansible-doc)
+
+d) afilando el hacha
+- inventarios dinamicos
+- roles, y su estructura
+- variables y lookups
+- with_...
+- register
+- when
+- tags
+- templates
+- jinja2
+- handlers
+- vaults
+- environment en modulos
+- hosts: grupos, local, nombres...
+- estados de error y decisiones asociadas
+- vault, gestion de secretos
+- ansible-galaxy, dependencias, 
+- fontaneria de ssh 
+- trucos para acelerar los playbooks
+- testing de infraestructuras: 
+  - serverspec
+  - test-kitchen
+  - goss
+- tower, 
+
+e) rotos y descosidos
+- debug 
+- sysntax-check
+- list-hosts
+- check mode
+- diff
