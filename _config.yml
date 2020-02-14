@@ -17,7 +17,7 @@ info-asociacion:
   codigo-postal: "04003, Almería"
   cif:
   telefono:
-  horario: "Viernes por la tarde: Colegio Liceo Erasmus. C/ Adolfo Marsillac, 12. Almería (Vega de Acá)"
+  horario: "Viernes por la tarde: Calle La Vega, 44"
 
 # Añadiendo colecciones para poder poner los post y las actividades de forma ordenada en la página de etiquetas
 collections:
