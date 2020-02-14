@@ -13,8 +13,8 @@ url: www.lajaqueria.org # the base hostname & protocol for your site, e.g. http:
 # Información de la asociación que irá dentro de la web
 info-asociacion:
   nombre-asociacion: "Asociación La Jaquería"
-  domicilio-social: "C/ Adolfo Marsillac, 12. (Vega de Acá)"
-  codigo-postal: "04003, Almería"
+  domicilio-social: "C/ la Vega, 44"
+  codigo-postal: "04007, Almería"
   cif:
   telefono:
   horario: "Viernes por la tarde: Calle La Vega, 44"
