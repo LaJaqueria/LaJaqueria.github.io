@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sesiones
+title: Socios
 permalink: /socios/
 ---
 
