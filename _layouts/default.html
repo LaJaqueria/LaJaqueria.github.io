@@ -1,89 +1,92 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <!--[if lt IE 9]>
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.css" />
-    <link rel="shortcut icon" type="image/png" href="../images/favicon.png"/>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/bootstrap.css" />
+  <link rel="shortcut icon" type="image/png" href="../images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
 
-    <script type="text/javascript"
-	    src="{{ site.baseurl }}/css/MathJax.js">
-    </script>
+  <script type="text/javascript" src="{{ site.baseurl }}/css/MathJax.js">
+  </script>
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+</head>
 
-  <body>
+<body>
 
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+        <div class="site-info">
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
+
+        <nav>
+          <a href="{{ site.baseurl }}/sesiones">Actividades</a>
+          <a href="{{ site.baseurl }}/anotaciones">Anotaciones</a>
+          <a href="{{ site.baseurl }}/proyectos">Proyectos</a>
+          <a href="{{ site.baseurl }}/socios">Socios</a>
+          <a href="{{ site.baseurl }}/about">Qué/Quién/Cómo</a>
+          <a href="{{ site.baseurl }}/contacto">Contacto</a>
+        </nav>
+      </header>
+    </div>
+  </div>
+
+  <div id="main" role="main" class="container">
+    {{ content }}
+  </div>
+
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
+        <div class="row">
+          <div class="col-sm">
+            <h4>Colaboramos con</h4>
+            <p>
+              <a href="https://hacklabalmeria.net/"><img src="/images/hla.png"></a>
+              <a href="https://laoficinacultural.org/"><img src="/images/laoficina.jpg"></a>
+              <a href="https://www.facebook.com/liceoerasmus/"><img src="/images/logoerasmus.jpg"></a>
+              <a href="https://workspace.es/es/"><img src="/images/WorkspaceCoworkingAlmeria.jpg"></a>
+            </p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/sesiones">Actividades</a>
-            <a href="{{ site.baseurl }}/anotaciones">Anotaciones</a>
-            <a href="{{ site.baseurl }}/proyectos">Proyectos</a>
-            <a href="{{ site.baseurl }}/about">Qué/Quién/Cómo</a>
-            <a href="{{ site.baseurl }}/contacto">Contacto</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          <div class="row">
-            <div class="col-sm">
-              <h4>Colaboramos con</h4>
-              <p>
-<a href="https://hacklabalmeria.net/"><img src="/images/hla.png"></a>
-<a href="https://laoficinacultural.org/"><img src="/images/laoficina.jpg"></a>
-<a href="https://www.facebook.com/liceoerasmus/"><img src="/images/logoerasmus.jpg"></a> 
-<a href="https://workspace.es/es/"><img src="/images/WorkspaceCoworkingAlmeria.jpg"></a>
-              </p>
-            </div>
-
-            <div class="col-sm">
-              <h4>Información</h4>
-              <p>
-                {{site.info-asociacion.nombre-asociacion}}
-                <br>
-                {{site.info-asociacion.domicilio-social}}
-                <br>
-                {{site.info-asociacion.codigo-postal}}
-                <br>
-                {{site.info-asociacion.cif}}
-                <br>
-              </p>
-            </div>
-
-            <div class="col-sm">
-              <h4>Redes sociales</h4>
-              {% include svg-icons.html %}
-            </div>
+          <div class="col-sm">
+            <h4>Información</h4>
+            <p>
+              {{site.info-asociacion.nombre-asociacion}}
+              <br>
+              {{site.info-asociacion.domicilio-social}}
+              <br>
+              {{site.info-asociacion.codigo-postal}}
+              <br>
+              {{site.info-asociacion.cif}}
+              <br>
+            </p>
           </div>
-        </footer>
-      </div>
-    </div>
 
-  </body>
+          <div class="col-sm">
+            <h4>Redes sociales</h4>
+            {% include svg-icons.html %}
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+</body>
+
 </html>
