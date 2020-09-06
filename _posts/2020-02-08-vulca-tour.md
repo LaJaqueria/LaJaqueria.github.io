@@ -16,7 +16,7 @@ Una iniciativa para promover el intercambio entre "espacios maker" de toda Europ
 
 ![vulca_tour](/recursos/2020-02-08/vulca_tour.jpg)
 
-A raiz de esta visita, hemos fortalecido vínculos con otras entidades como La Jaquería, y hemos vuelto a ser conscientes de que, en realidad, no somos un caso aislado...
+A raiz de esta visita, hemos fortalecido vínculos con otras entidades, y hemos vuelto a ser conscientes de que, en realidad, no somos un caso aislado...
 
 Puedes visitar la [web del proyecto](https://vulca.eu/vulca-tour/).
 
