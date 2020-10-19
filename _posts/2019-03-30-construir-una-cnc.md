@@ -20,6 +20,12 @@ Basandonos en el proyecto <a href="https://reprap.org/wiki/Mostly_Printed_CNC">M
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l91uSr-R7-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AntdyQSzXBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=y3oS1odX1j0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QZh9szzkSNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Enlaces a la guia del proyecto:
 <ul>
 <li><a href="https://www.v1engineering.com/specifications/">especificaciones</a></li>
