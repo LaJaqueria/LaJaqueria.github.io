@@ -17,3 +17,6 @@ Proyecto de creación de una máquina recreativa; desde el propio mueble hasta l
 Este proyecto será realizado en la siguiente dirección web:
 
 [https://lajaqueria.org/maquina-recreativa/](https://lajaqueria.org/maquina-recreativa/)
+
+Por ahora vamos por aqui:
+<img src="/images/arcade01.jpg">
