@@ -22,14 +22,11 @@ Basandonos en el proyecto <a href="https://reprap.org/wiki/Mostly_Printed_CNC">M
 primero:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l91uSr-R7-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-segundo:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AntdyQSzXBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=AntdyQSzXBw">segundo</a>
 
-tercero:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=y3oS1odX1j0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=y3oS1odX1j0">tercero</a> 
 
-cuarto:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QZh9szzkSNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=QZh9szzkSNE">cuarto</a> 
 
 Enlaces a la guia del proyecto(deprecado):
 <ul>
