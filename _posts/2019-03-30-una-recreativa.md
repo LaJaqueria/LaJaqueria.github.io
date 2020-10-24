@@ -18,5 +18,5 @@ Este proyecto será realizado en la siguiente dirección web:
 
 [https://lajaqueria.org/maquina-recreativa/](https://lajaqueria.org/maquina-recreativa/)
 
-Por ahora vamos por aqui:
+Por ahora vamos por aqui:<br>
 <img src="/images/arcade01.jpg">
