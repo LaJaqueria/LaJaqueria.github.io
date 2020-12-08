@@ -57,7 +57,7 @@ el [kit](https://www.ottodiy.com/store/products/49452), tal y como lo venden en 
 
 formato para un taller: 
 
-- seria necesario contar con un PC por participante, con el blocky instalado y funcionando. 
+- seria necesario contar con un PC por participante, con el [blocky](https://github.com/OttoDIY/blockly/releases/download/v1.3.0/OttoBlockly-Setup-1.3.0.exe) instalado y funcionando. O en su defecto, acceso a la [web de blocky](https://ottodiy.github.io/blockly/www/).
 
 - duracion 3 horas. 
 
