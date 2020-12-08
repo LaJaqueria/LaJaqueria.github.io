@@ -26,10 +26,10 @@ OTTODIY ya se puede utilizar con un [ESP32](https://github.com/OttoDIY/OttoDIYES
 mas informacion del proyecto oficial en [wikifactory](https://wikifactory.com/+OttoDIY/otto-diy).
 
 ...
-materiales para un taller de OTTO como plataforma educativa:
+materiales para un taller de robotica como plataforma educativa:
 (por participante)
 
-- las piezas de OTTO sacadas en [impresion 3D](https://wikifactory.com/+OttoDIY/otto-diy/files/3Dprint) (cabeza, cuerpo, 2 pies, 2 piernas). (1€)
+- las piezas sacadas en [impresion 3D](https://wikifactory.com/+OttoDIY/otto-diy/files/3Dprint) (cabeza, cuerpo, 2 pies, 2 piernas). (1€)
 
 - 4x [servo motor ](https://es.aliexpress.com/item/32442393099.html?spm=a2g0s.9042311.0.0.274263c0ImuGT6). (6,76€)
 
@@ -61,7 +61,7 @@ formato para un taller:
 
 - duracion 3 horas. 
 
-- los participantes reciben una bolsa con todos los componentes para montar un OTTO
+- los participantes reciben una bolsa con todos los componentes para montar un robot
 
 - primera parte: montaje fisico de los componentes. 
 
@@ -75,8 +75,8 @@ este taller es el esquema basico de varias vias posibles. En la web de [ottoscho
 
  - montaje del robot
  - programacion con scratch
- - diseño 3D a partir de los modelos de OTTO
+ - diseño 3D a partir de los modelos 
  - iniciacion a la impresion 3D 
- - iniciacion a la Interligencia Artificial aplicada a OTTO
- - diseño de Apps para interactuar con OTTO
- - iniciacion a la mecanica con OTTO
+ - iniciacion a la Interligencia Artificial 
+ - diseño de Apps para interactuar 
+ - iniciacion a la mecanica 
