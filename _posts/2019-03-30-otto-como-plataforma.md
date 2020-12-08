@@ -1,7 +1,7 @@
 ---
 layout: post
 #Datos del post
-title: "OTTO como plataforma educativa"
+title: "un robot DIY como plataforma educativa"
 
 #Fecha
 date: 2020-12-08T18:15
@@ -10,9 +10,9 @@ category: proyectos
 user: varios
 ---
 
-## OTTO como plataforma educativa
+## un robot DIY como plataforma educativa
 
-<a href="https://www.ottodiy.com/#build-your-own-robot">OTTO</a> es un clon libre de Zowi, un robot bipedo humanoide puede ser programado con una adaptación de Scratch. Es barato, simple y vistoso.
+A partir de <a href="https://www.ottodiy.com/#build-your-own-robot">OTTO</a>, un clon libre de Zowi, un robot bipedo humanoide puede ser programado con una adaptación de Scratch. Es barato, simple y vistoso.
 
 ...y si lo utilizasemos como base para nuestas acciones de apropiación tecnológica, para todas las edades?
 
@@ -70,3 +70,13 @@ formato para un taller:
 - tercera parte: iniciacion a la programacion "con bloques"
 
 - al terminar el taller, cada participante se lleva su robot terminado 
+
+este taller es el esquema basico de varias vias posibles. En la web de [ottoschool](https://ottoschool.com/en/all-courses/) tienen un catalogo de cursos, a 40€ cada uno que cubren, como cursos de iniciacion:
+
+ - montaje del robot
+ - programacion con scratch
+ - diseño 3D a partir de los modelos de OTTO
+ - iniciacion a la impresion 3D 
+ - iniciacion a la Interligencia Artificial aplicada a OTTO
+ - diseño de Apps para interactuar con OTTO
+ - iniciacion a la mecanica con OTTO
