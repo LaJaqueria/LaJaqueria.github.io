@@ -44,7 +44,7 @@ Estado del proyecto:
 Una lista de la compra para motores, mecanica, etc:
 
 - [motor Nema](https://www.aliexpress.com/item/32753932387.html?spm=a2g0o.cart.0.0.6cb13c00IYQQNK&mp=1)
-- [placa de control](https://www.aliexpress.com/item/32988486511.html?spm=a2g0o.cart.0.0.6cb13c00IYQQNK&mp=1)
+- [placa de control](https://www.aliexpress.com/item/4001233605249.html?spm=a2g0o.cart.0.0.460c3c00erhSFf&mp=1)
 - [polea](https://www.aliexpress.com/item/32987284964.html?spm=a2g0o.cart.0.0.6cb13c00IYQQNK&mp=1)
 - [correa dentada](https://www.aliexpress.com/item/32304225325.html?spm=a2g0o.cart.0.0.6cb13c00IYQQNK&mp=1)
 - [varilla vertical](https://www.aliexpress.com/item/32507277503.html?spm=a2g0o.cart.0.0.6cb13c00IYQQNK&mp=1)
