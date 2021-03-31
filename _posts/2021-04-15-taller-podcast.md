@@ -7,7 +7,7 @@ description: "Nuestro compa Josep Maria, de Morada Sonica, ha preparado un talle
 
 #Fecha
 startDate: 2021-04-15T18:30
-endDate: 2021-06-30T21:00
+endDate: 2021-06-30T20:30
 
 #Lugar
 place: "La Jaqueria"
