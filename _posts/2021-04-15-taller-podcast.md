@@ -3,7 +3,7 @@ layout: actividad
 
 #Datos del Evento
 title: "Taller de Podcast - Primera sesion"
-description: "Nuestro compa Josep Maria, de Morada Sonica, ha preparado un taller de Podcast para nosotros. Inscribete. Comenzamos el 15 de Abril. Seransesiones de 2 horas, los jueves de 18:30 a 20:30. "
+description: "Nuestro compa Josep Maria, de Morada Sonica, ha preparado un taller de Podcast para nosotros. "
 
 #Fecha
 startDate: 2021-04-15T18:30
@@ -19,7 +19,6 @@ category: actividades
 user: La Jaquería
 ---
 
-Nuestro compa Josep María, de Morada Sónica,  ha diseñado un taller de Podcast para nosotr@s
 
 Inscríbete ! Comenzamos el jueves 15 de Abril. 
 
