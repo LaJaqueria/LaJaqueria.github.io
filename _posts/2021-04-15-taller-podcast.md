@@ -24,8 +24,6 @@ Inscríbete ! Comenzamos el jueves 15 de Abril.
 
 Sesiones de 2h donde poco a poco iremos aprendiendo los secretos de un buen podcast, sus herramientas, funciones y realización ...
 
-Queda alguna plaza presencial, 
-
-resto online
+Queda alguna plaza presencial, el resto online
 
 ![cartel](/recursos/varios/podcast.jpg)

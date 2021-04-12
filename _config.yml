@@ -42,12 +42,12 @@ footer-links:
   flickr:
   github: LaJaqueria
   instagram:
-  linkedin: lajaqueria
+  linkedin: 
   pinterest:
   rss:
   twitter: LaJaqueria
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCYKcbF-qtcpfLj4WpUNOH2w
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Build settings
