@@ -25,3 +25,15 @@ Para contribuir a todos estos fines, intentaremos establecer vínculos nacionale
 <br>
 Nuestro proyecto en ciernes es apasionante y estamos poniendo mucha ilusión a la par que Realidad...
 <br>
+
+<h2>Hemeroteca</h2>
+<ul>
+<li>La <a href="/recursos/varios/20200309.pdf">Voz de Almería</a> recoge la fundación de La Jaquerìa</li>
+
+<li>Entrevista en InterAlmeria, sobre la inauguración del local:</li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3dPhQmymycw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<li>Entrevista en <a href="https://candilradio.com/audio/programas/dias-de-radio/desde-la-jaqueria-en-almeria-con-morada-sonica-en-dias-de-radio/">Candil Radio</a> sobre La Jaqueróa y el Taller de Podcast</li>
+<li>La <a href="/recursos/varios/20200309.pdf">Voz de Almería</a> recoge el Taller de Podcast</li>
+
+

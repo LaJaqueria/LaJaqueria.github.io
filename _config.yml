@@ -53,8 +53,6 @@ footer-links:
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed
 
 
   # Exclude these files from your production _site
