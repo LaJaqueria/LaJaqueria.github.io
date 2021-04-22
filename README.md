@@ -55,6 +55,7 @@ Para poder ver el resultado final, deberás ejecutar Jekyll con `jekyll serve`
 
 Una vez hayas terminado el post y quieras _publicarlo_, simplemente sube los cambios al repositorio.
 
+
 ### Licencia
 
 © Los respectivos autores, 2015, 2016, 2017, 2018.
