@@ -7,6 +7,12 @@ title: "Taller de crimpado de latiguillos de red (RJ45)"
 startDate: 2021-04-27T18:15
 endDate: 2021-04-27T19:15
 
+#Lugar
+place: "La Jaqueria"
+street: "calle la Vega"
+locality: "Almería"
+postalCode: "04002"
+
 category: actividades
 user: La Jaqueria
 ---
@@ -32,10 +38,4 @@ El taller tiene una duracion de 1h, y se plantea en modalidad mixta, presencial 
 
 <img src="/recursos/varios/Diagram_Alarm-Daisychain-T568BCrimp.jpg">
 
-
-#Lugar
-place: "La Jaqueria"
-street: "calle la Vega"
-locality: "Almería"
-postalCode: "04002"
 
