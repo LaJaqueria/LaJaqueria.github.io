@@ -33,9 +33,9 @@ Nuestro proyecto en ciernes es apasionante y estamos poniendo mucha ilusión a l
 <li>(9/III/2020) - Entrevista en InterAlmeria, sobre la inauguración del local:</li>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dPhQmymycw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<li>(27/I/2021) - Entrevista en <a href="https://candilradio.com/audio/programas/dias-de-radio/desde-la-jaqueria-en-almeria-con-morada-sonica-en-dias-de-radio/">Candil Radio</a> sobre La Jaqueróa y el Taller de Podcast</li>
+<li>(27/I/2021) - Entrevista en <a href="https://candilradio.com/audio/programas/dias-de-radio/desde-la-jaqueria-en-almeria-con-morada-sonica-en-dias-de-radio/">Candil Radio</a> sobre La Jaquer&iacute;a y el Taller de Podcast</li>
 <li>(12/IV/2021) - La <a href="/recursos/varios/20210412.pdf">Voz de Almería</a> recoge el Taller de Podcast</li>
-<li>(13/IV/2021) - Entrevista en InterAlmeriaa sobre actividades y el Taller de Podcast:</li>
+<li>(13/IV/2021) - Entrevista en InterAlmeria sobre actividades y el Taller de Podcast:</li>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W726IR-emyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
