@@ -26,7 +26,6 @@ El taller tiene una duracion de 1h, y se plantea en modalidad mixta, presencial 
 <li>paso a paso<li>
 <li>verificacion con tester<li>
 <li>verificacion sin tester<li>
-
 </ul>
 
-<img src="recursos/varios/Diagram_Alarm-Daisychain-T568BCrimp.jpg">
+<img src="/recursos/varios/Diagram_Alarm-Daisychain-T568BCrimp.jpg">
