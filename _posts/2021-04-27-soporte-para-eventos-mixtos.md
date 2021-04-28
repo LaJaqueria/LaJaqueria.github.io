@@ -1,7 +1,7 @@
 ---
 layout: post
 #Datos del post
-title: "Soporte para eventos mixtos:
+title: "Soporte para eventos mixtos: online y presencial"
 
 #Fecha
 date: 2021-04-27T18:15
@@ -18,12 +18,23 @@ Camara cenital, camara de ponente, elementos de realizacion, participacion local
 
 <ul>
 <li>camaras y conexiones </li>
+
+Portatil con hub USB, camara "gopro" via usb, camara "compacta" via usb.
+
 <li>software  </li>
-<li>esquema del montaje<li>
+OBS con una "escena" con las camaras disponibles, y haciendo preview en una ventana
+una segunda escena de discord con la ventana de discord, para cambiar en caso de querer grabar lo que comparten los participantes
+
+discord en modo "compartir pantalla", compartiendo la ventana de la preview de OBS
+
+OBS graba desde el comienzo
+
+en discord se habla y se escucha, y se pariticipa
+
+ 
+<li>esquema del montaje</li>
 <li>apuntes sobre organizacion de eventos: agenda previa al evento</li>
 <li>apuntes sobre organizacion de eventos: agenda tras el evento</li>
 
 
 </ul>
-
-<img src="recursos/varios/Diagram_Alarm-Daisychain-T568BCrimp.jpg">
