@@ -30,11 +30,16 @@ primero:
 
 Enlaces a la guia del proyecto(deprecado):
 <ul>
-<li><a href="https://www.v1engineering.com/specifications/">especificaciones</a></li>
-<li><a href="https://www.v1engineering.com/blog/parts/">componentes</a></li>
-<li><a href="https://www.v1engineering.com/assembly/">montaje</a></li>
-<li><a href="https://www.v1engineering.com/assembly/electronics/">electronica</a></li>
-<li><a href="https://www.v1engineering.com/assembly/software/">software</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/">introduccion</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/parts/">componentes</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/table/">montaje - mesa</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/conduit/">montaje - tubos</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/base/">montaje - base</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/z-axis/">montaje - eje Z</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/middle-assm/">montaje - bloque central</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/gantry/">montaje - motores</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/final/">montaje - ensamblado</a></li>
+<li><a href="https://docs.v1engineering.com/mpcnc/burly/belts/">montaje - correas</a></li>
 <li><a href="https://www.v1engineering.com/milling-basics/">iniciacion al fresado</a></li>
 </ul>
 
