@@ -41,6 +41,8 @@ Enlaces a la guia del proyecto(deprecado):
 <li><a href="https://docs.v1engineering.com/mpcnc/burly/final/">montaje - ensamblado</a></li>
 <li><a href="https://docs.v1engineering.com/mpcnc/burly/belts/">montaje - correas</a></li>
 <li><a href="https://docs.v1engineering.com/electronics/ramps/">configurar la electronica</a></li>
+<li><a href="https://docs.v1engineering.com/software/">pruebas con el software de control</a></li>
+
 <li><a href="https://www.v1engineering.com/milling-basics/">iniciacion al fresado</a></li>
 
 </ul>
