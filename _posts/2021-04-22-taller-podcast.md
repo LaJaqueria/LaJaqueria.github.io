@@ -27,3 +27,5 @@ Sesiones de 2h donde poco a poco iremos aprendiendo los secretos de un buen podc
 Queda alguna plaza presencial, el resto online
 
 ![cartel](/recursos/varios/podcast.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xweUezqx9Vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

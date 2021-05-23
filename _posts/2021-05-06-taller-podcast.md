@@ -27,3 +27,5 @@ Sesiones de 2h donde poco a poco iremos aprendiendo los secretos de un buen podc
 Puedes apuntarte en modalidad presencial u online.
 
 ![cartel](/recursos/varios/podcast.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Asd1UFwAyX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
