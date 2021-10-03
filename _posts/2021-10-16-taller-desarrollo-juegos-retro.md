@@ -45,7 +45,7 @@ Seguidamente os dejamos el programa del taller:
 * Sábado 4 de Diciembre de 11:00 a 13:00: SDL (PC) II.
 * Sábado 11 de Diciembre de 11:00 a 13:00: PICO-8.
 
-Para acceder al taller, se requiere  registrarse para poder reservar las plazas en el local.
+Para acceder al taller, se requiere  registrarse para poder reservar las plazas en el local. Próximamente abriremos el registro.
 
 Para aquellos que quieran venir al local, se requerira un portatil para poder seguir el taller.
 
