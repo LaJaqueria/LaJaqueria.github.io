@@ -45,7 +45,32 @@ Seguidamente os dejamos el programa del taller:
 * Sábado 4 de Diciembre de 11:00 a 13:00: SDL (PC) II.
 * Sábado 11 de Diciembre de 11:00 a 13:00: PICO-8.
 
-Para acceder al taller, se requiere  registrarse para poder reservar las plazas en el local. Próximamente abriremos el registro.
+Para acceder al taller, se requiere  registrarse para poder reservar las plazas en el local. 
+
+## Registro y Entradas
+
+Para poder registrarte en el evento, puedes seguir el siguiente formulario. Las entradas pueden cambiar en función del aforo.
+
+<div id="eventbrite-widget-container-187555412287"></div>
+
+<script src="https://www.eventbrite.es/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Pedido completo');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '187555412287',
+        iframeContainerId: 'eventbrite-widget-container-187555412287',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
 Para aquellos que quieran venir al local, se requerira un portatil para poder seguir el taller.
 
