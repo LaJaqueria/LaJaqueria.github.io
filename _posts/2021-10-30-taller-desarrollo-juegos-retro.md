@@ -43,7 +43,7 @@ Seguidamente os dejamos el programa del taller:
 * Sábado 4 de Diciembre de 11:00 a 13:00: Game Boy Advance II.
 * Sábado 11 de Diciembre de 11:00 a 13:00: SDL (PC) I.
 * Sábado 18 de Diciembre de 11:00 a 13:00: SDL (PC) II.
-* Sábado 20 de Diciembre de 18:30 a 20:30: PICO-8.
+* Lunes 20 de Diciembre de 18:30 a 20:30: PICO-8.
 
 **NOTA**: Las fechas pueden sufrir cambios. Consulte la web del evento.
 
