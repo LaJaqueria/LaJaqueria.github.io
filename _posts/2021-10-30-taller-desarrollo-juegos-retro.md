@@ -38,16 +38,16 @@ Seguidamente os dejamos el programa del taller:
 
 * Sábado 30 de Octubre de 11:00 a 13:00: Introducción al lenguaje de programación C.
 * Sábado 6 de Noviembre de 11:00 a 13:00: Mega Drive I.
-* Sábado 20 de Noviembre de 11:00 a 13:00: Mega Drive II.
-* Sábado 27 de Noviembre de 11:00 a 13:00: Game Boy Advance I.
-* Sábado 4 de Diciembre de 11:00 a 13:00: Game Boy Advance II.
+* Sábado 13 de Noviembre de 11:00 a 13:00: Mega Drive II.
+* Miércoles 23 de Noviembre de 18:30 a 20:30: Game Boy Advance I.
+* Sábado 27 de Noviembre de 11:00 a 13:00: Game Boy Advance II.
 * Sábado 11 de Diciembre de 11:00 a 13:00: SDL (PC) I.
 * Sábado 18 de Diciembre de 11:00 a 13:00: SDL (PC) II.
 * Lunes 20 de Diciembre de 18:30 a 20:30: PICO-8.
 
 **NOTA**: Las fechas pueden sufrir cambios. Consulte la web del evento.
 
-Para acceder al taller, se requiere  registrarse para poder reservar las plazas en el local. 
+Para acceder al taller, se requiere  registrarse para poder reservar las plazas en el local.
 
 ## Registro y Entradas
 
