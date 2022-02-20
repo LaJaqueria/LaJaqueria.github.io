@@ -26,3 +26,6 @@ La charla será impartida por nuestro compañero [Victor Suarez](https://twitter
 La charla se podra seguir en físico y en virtual a través de nuestra plataforma de Discord.
 
 Para más información, puedes contactar con nosotros a través de nuestro [correo o contacto](https://lajaqueria.org/contacto/).
+
+**Vídeo de la sesión**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oc3oC5GEw3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
