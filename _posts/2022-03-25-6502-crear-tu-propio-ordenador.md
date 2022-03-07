@@ -21,7 +21,7 @@ user: La Jaquería
 
 Sesión de marzo del _Club de desarrollo Retro_; esta vez, vamos a hablar sobre el procesador 6502, y veremos un proyecto real con este procesador.
 
-La charla será impartida por nuestro compañero [Carlos Santiesteban](https://twitter.com/zuiko21); el cual nos dará una charla sobre un proyecto que esta desarrollando usando este procesador.
+La charla será impartida por nuestro compañero [Carlos Santisteban](https://twitter.com/zuiko21); el cual nos dará una charla sobre un proyecto que esta desarrollando usando este procesador.
 
 La charla se podra seguir en físico y en virtual a través de nuestra plataforma de Discord.
 
