@@ -25,4 +25,4 @@ La charla será impartida por nuestro compañero [Carlos Santisteban](https://tw
 
 La charla se podra seguir en físico y en virtual a través de nuestra plataforma de Discord.
 
-Para más información, puedes contactar con nosotros a través de nuestro [correo o contacto](https://lajaqueria.org/contacto/).
+Para entrar de forma virtual o tener más información, puedes contactar con nosotros a través de nuestro [correo de Contacto](https://lajaqueria.org/contacto/).
