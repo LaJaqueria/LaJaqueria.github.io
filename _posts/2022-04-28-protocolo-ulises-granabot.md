@@ -25,3 +25,6 @@ Propuesta tecnologica/artistica/performativa para celebrar el centenario de la p
 - Un sistema de videowall construido a partir de la recuperacion de elementos tecnologicos por parte de [LaJaqueria](https://lajaqueria.org), y el trabajo artistico/maker de [Huerfanas Studio](https://www.huerfanas.studio/)
 - Una charla de introduccion: Ulises como hacking del lenguaje 
 - Una llamada a la participacion: [sube un audio](https://chat.whatsapp.com/L7qH4wunvdRJ9R87oOrb0y) de tu lectura de un [fragmento de la novela](https://weblitera.com/book/?id=121&lng=5&ch=1&l=en), y participa en el sorteo de regalos dublineses
+
+Sìguenos en [Twitter @aGenteJyce](https://twitter.com/aGenteJoyce)
+
