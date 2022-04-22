@@ -21,7 +21,7 @@ user: La Jaquería
 
 Propuesta tecnologica/artistica/performativa para celebrar el centenario de la publicacion de la novela Ulises de James Joyce. 
 
-- Una instalacion audiovisual que evoca algunos pasajes del [texto](https://weblitera.com/book/?id=121&lng=5&ch=1&l=en)
-- Un sistema de videowall construido a partir de elementos reutilizados, y el trabajo artesanal de [Gonzalo](http://www.santaherejia.com/)
+- Una produccion audiovisual de [Huerfanas Studio](https://www.huerfanas.studio/) que evoca pasajes del [texto](https://weblitera.com/book/?id=121&lng=5&ch=1&l=en)
+- Un sistema de videowall construido a partir de la recuperacion de elementos tecnologicos por parte de [LaJaqueria](https://lajaqueria.org), y el trabajo artistico/maker de [Huerfanas Studio](https://www.huerfanas.studio/)
 - Una charla de introduccion: Ulises como hacking del lenguaje 
 - Una llamada a la participacion: [sube un audio](https://chat.whatsapp.com/L7qH4wunvdRJ9R87oOrb0y) de tu lectura de un [fragmento de la novela](https://weblitera.com/book/?id=121&lng=5&ch=1&l=en), y participa en el sorteo de regalos dublineses
