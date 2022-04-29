@@ -28,3 +28,12 @@ Propuesta tecnologica/artistica/performativa para celebrar el centenario de la p
 
 Sìguenos en [Twitter @aGenteJyce](https://twitter.com/aGenteJoyce)
 
+# Algunas referencias: 
+
+<blockquote class="twitter-tweet">
+<p lang="es" dir="ltr">
+<a href="https://twitter.com/IvanGMoyano">Huerfanas Studio</a> 
+<a href="https://t.co/jrde01m7dk">pic.twitter.com/jrde01m7dk</a>
+</p>
+<a href="https://twitter.com/aGenteJoyce/status/1519979967895019521?ref_src=twsrc%5Etfw">April 29, 2022</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
