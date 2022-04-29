@@ -30,6 +30,12 @@ Sìguenos en [Twitter @aGenteJyce](https://twitter.com/aGenteJoyce)
 
 # Algunas referencias: 
 
+(post de twitter)
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/aGenteJoyce/status/1519979967895019521?ref_src=twsrc%5Etfw">April 29, 2022</a></blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+(un video local)
+<video id="canalsur" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/canal_sur.mp4" type='video/mp4' />
+</video>
+
