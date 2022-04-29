@@ -36,6 +36,6 @@ Sìguenos en [Twitter @aGenteJyce](https://twitter.com/aGenteJoyce)
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 (un video local)
-<video id="canalsur" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/canal_sur.mp4" type='video/mp4' />
+<video id="canalsur" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/canal_sur.mp4" controls autoplay type='video/mp4' />
 </video>
 
