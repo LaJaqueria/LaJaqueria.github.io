@@ -49,13 +49,14 @@ cartel del evento:
 ![cartel](https://lajaqueria.org/recursos/aGenteUlises/cartel.jpg)
 
 una simulacion inicial de la estructura:
-<video id="estructura" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/estructura.mp4" controls type='video/mp4' /></video>
+<video id="estructura" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/estructura.mp4" controls type='video/mp4' />
+< /video>
 
 el qr code que lleva al grupo de whatsapp donde se hace la lectura colectiva:
 ![qr](https://lajaqueria.org/recursos/aGenteUlises/qr_code_whatssap_lectura_colectiva.jpg)
 
 en las noticias de Canal Sur
-<video id="canalsur" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/canal_sur.mp4" controls type='video/mp4' /></video>
+<video id="canalsur" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/canal_sur.mp4" controls type='video/mp4' />
 
 leyendo ulises:
 ![lector_vater.jpg](https://lajaqueria.org/recursos/aGenteUlises/lector_vater.jpg)
