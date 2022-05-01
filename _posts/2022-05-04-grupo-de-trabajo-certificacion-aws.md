@@ -26,7 +26,7 @@ Aparte de dedicarle una hora a dia a estudio individual, es bueno tener con quie
 
 Planteamos estudiar durante los meses de mayo, junio y julio, y presentarnos al examen a finales de JULIO.
 
-Este taller es gratuito para para socios de La Jaqueria.
+Este taller es gratuito para socios de La Jaqueria.
 
 ¿No eres socio de La Jaqueria? 
 Aprovecha la oportunidad, y [hazte socio](https://lajaqueria.org/socios/) !!
