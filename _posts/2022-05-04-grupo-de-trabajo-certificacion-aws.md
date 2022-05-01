@@ -33,5 +33,7 @@ Aprovecha la oportunidad, y [hazte socio](https://lajaqueria.org/socios/) !!
 
 Sesiones de 2h, los miercoles, donde pondremos  en comun dudas, materiales, enfoques, practicas de examen... 
 
+[informacion oficial](https://aws.amazon.com/certification/certified-solutions-architect-associate/) sobre el examen de certificacion
+
 ![cartel](https://lajaqueria.org/recursos/varios/jaqueria_aws_poster.jpg)
 
