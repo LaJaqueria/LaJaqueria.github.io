@@ -2,7 +2,7 @@
 layout: actividad
 
 #Datos del Evento
-title: "AWS Associate Solutions Architect Certification"
+title: "AWS Associate Solutions Architect Certification (primera sesion)"
 description: "Grupo de trabajo/estudio"
 
 #Fecha
