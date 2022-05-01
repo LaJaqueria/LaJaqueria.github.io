@@ -28,7 +28,7 @@ Propuesta tecnologica/artistica/performativa para celebrar el centenario de la p
 
 Sìguenos en [Twitter @aGenteJyce](https://twitter.com/aGenteJoyce)
 
-# Algunas imagenes, videos, referencias: 
+# imagenes, videos, referencias: 
 
 en las noticias de Canal Sur
 <video id="canalsur" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/canal_sur.mp4" controls type='video/mp4' /></video>
