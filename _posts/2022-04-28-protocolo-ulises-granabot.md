@@ -30,21 +30,6 @@ Sìguenos en [Twitter @aGenteJyce](https://twitter.com/aGenteJoyce)
 
 # imagenes, videos, referencias: 
 
-en las noticias de Canal Sur
-<video id="canalsur" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/canal_sur.mp4" controls type='video/mp4' /></video>
-
-una simulacion inicial de la estructura:
-<video id="estructura" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/estructura.mp4" controls type='video/mp4' /></video>
-
-pruebas de sincronizacion de video entre las raspis:
-<video id="video_sync" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/video_sync.mp4" controls type='video/mp4' /></video>
-
-momentos del montaje:
-<video id="montaje" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/montaje.mp4" controls type='video/mp4' /></video>
-
-la escena de la biblioteca, en simulacion:
-<video id="video_biblioteca" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/video_biblioteca.mp4" controls type='video/mp4' /></video>
-
 la estructura, sobre las mesas de La Jaqueria:
 ![estructura_sobre_la_mesa](https://lajaqueria.org/recursos/aGenteUlises/estructura_sobre_la_mesa.jpg)
 
@@ -74,4 +59,19 @@ leyendo ulises:
 
 el qr code que lleva al grupo de whatsapp donde se hace la lectura colectiva:
 ![qr](https://lajaqueria.org/recursos/aGenteUlises/qr_code_whatssap_lectura_colectiva.jpg)
+
+en las noticias de Canal Sur
+<video id="canalsur" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/canal_sur.mp4" controls type='video/mp4' /></video>
+
+una simulacion inicial de la estructura:
+<video id="estructura" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/estructura.mp4" controls type='video/mp4' /></video>
+
+pruebas de sincronizacion de video entre las raspis:
+<video id="video_sync" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/video_sync.mp4" controls type='video/mp4' /></video>
+
+momentos del montaje:
+<video id="montaje" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/montaje.mp4" controls type='video/mp4' /></video>
+
+la escena de la biblioteca, en simulacion:
+<video id="video_biblioteca" class="video-js vjs-default-skin" src="https://lajaqueria.org/recursos/aGenteUlises/video_biblioteca.mp4" controls type='video/mp4' /></video>
 
