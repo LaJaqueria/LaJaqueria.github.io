@@ -33,5 +33,5 @@ Aprovecha la oportunidad, y [hazte socio](https://lajaqueria.org/socios/) !!
 
 Sesiones de 2h, los miercoles, donde pondremos  en comun dudas, materiales, enfoques, practicas de examen... 
 
-![cartel](/recursos/varios/estudio_certificacion.jpg)
+![cartel](/recursos/varios/jakeria_aws_poster.jpg)
 
