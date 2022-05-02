@@ -21,8 +21,8 @@ user: La Jaquería
 
 Grupo de trabajo/estudio colectivo para sacarse la certificacion Associate Solutions Architect de AWS
 
-Sabemos que es mas facil estudiar en grupo, y tener a mano a quien preguntar dudas, por eso planteamos este taller presencial"
 Aparte de dedicarle una hora a dia a estudio individual, es bueno tener con quien compartir dudas, y poner en comun lo aprendido.
+Sabemos que es mas facil estudiar en grupo, y tener a mano a quien preguntar dudas, por eso planteamos este taller presencial
 
 Planteamos estudiar durante los meses de mayo, junio y julio, y presentarnos al examen a finales de JULIO.
 
