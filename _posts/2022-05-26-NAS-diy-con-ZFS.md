@@ -19,7 +19,7 @@ category: actividades
 user: La Jaquería
 ---
 
-![openzfs](https://en.wikipedia.org/wiki/ZFS#/media/File:OpenZFS_logo.svg) 
+![openzfs](https://lajaqueria.org/recursos/varios/openzfs.png)
 
 Una NAS de 7Tb por el precio de los discos duros ?
 
