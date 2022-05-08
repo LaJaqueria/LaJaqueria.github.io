@@ -21,8 +21,9 @@ user: La Jaquería
 
 Una NAS de 7Tb por el precio de los discos duros ?
 
-Utilzando ZFS podemos tomar el control de nuestros datos y tener lo mas parecido a seguridad de que van a perdurar.
+Utilzando [ZFS](https://en.wikipedia.org/wiki/ZFS)  podemos tomar el control de nuestros datos y tener lo mas parecido a seguridad de que van a perdurar.
 
-Una charla sobre ZFS, casos de uso, y ejemplos practicos 
+Una charla sobre ZFS, casos de uso, ciclo de vida, errores comunes, calculo de discos y espacio disponible, algunos comandos estandar para la administracion, y ejemplos practicos 
+
 
 
