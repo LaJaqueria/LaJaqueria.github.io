@@ -95,3 +95,4 @@ la escena de la biblioteca, en simulacion:
 <video src="https://lajaqueria.org/recursos/aGenteUlises/video_biblioteca.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+![pantallas_mesa](https://lajaqueria.org/recursos/aGenteUlises/pantallas_en_mesa.png)
