@@ -19,6 +19,8 @@ category: actividades
 user: La Jaquería
 ---
 
+![openzfs](https://en.wikipedia.org/wiki/ZFS#/media/File:OpenZFS_logo.svg) 
+
 Una NAS de 7Tb por el precio de los discos duros ?
 
 Utilzando [ZFS](https://en.wikipedia.org/wiki/ZFS)  podemos tomar el control de nuestros datos y tener lo mas parecido a seguridad de que van a perdurar.
