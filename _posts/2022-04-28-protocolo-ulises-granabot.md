@@ -95,6 +95,8 @@ la escena de la biblioteca, en simulacion:
 <video src="https://lajaqueria.org/recursos/aGenteUlises/video_biblioteca.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+las pantallas, en el banco de pruebas:
+
 ![pantallas_mesa](https://lajaqueria.org/recursos/aGenteUlises/pantallas_en_mesa.png)
 
 El documento ([pdf](https://lajaqueria.org/recursos/aGenteUlises/ProtocoloUlises.pdf)) donde se explica el proyecto.
