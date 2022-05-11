@@ -21,7 +21,7 @@ Existe distintas cuotas para los socios en función de distintos factores:
 
 * Cuota Normal: 20€ al mes.
 * Cuota Estudiante/Parado: 18€ al trimestre. Debe acreditarse esta situación presentando el carnet de estudiante o certificación de situación de desempleo.
-* Cuota Familiar: Un socio puede traer a más miembros de su familia por 18€ al trimestre extra. Es decir, 30€+18€ al trimestre para toda la familia. Los menores de 14 años no pagan cuota, siempre que vegan acompañados por un tutor que si sea socio.
+* Cuota Familiar: Un socio puede traer a más miembros de su familia por 18€ al trimestre extra. Es decir, 60€+18€ al trimestre para toda la familia. Los menores de 14 años no pagan cuota, siempre que vegan acompañados por un tutor que si sea socio.
 
 ## ¿Cómo hacerse socio?
 
