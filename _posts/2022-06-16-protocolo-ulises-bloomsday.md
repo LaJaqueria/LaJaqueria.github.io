@@ -23,12 +23,11 @@ user: La Jaquería
 
 
 Propuesta tecnologica/artistica/performativa para celebrar el centenario de la publicacion de la novela Ulises de James Joyce. 
+...y el Dia En que Todo Sucede, el 16 de Junio de 1904, en la, desde entonces enterna, Dublin.
 
 Nuestro proyecto es una performance donde interactuamos con el entorno con una
 instalación, y charlaremos sobre Ulises, a propósito del centenario del Ulises de Joyce.
-La acción comienza con el proceso de montaje.
-Desde el desembarco de los materiales y el montaje de la pieza central (descrita más
-abajo) en el lugar que se nos asigne.
+La acción comienza con el proceso de montaje: desde el desembarco de los materiales y su ensamblado
 
 Hemos tomado el libro como referencia para reflexionar sobre su vigencia cultural, su
 contexto del momento, y su influencia en lo literario, estético-artístico en general
@@ -42,7 +41,8 @@ como, por qué no, tecnológicas o científicas…
 En lo que querríamos que fuera una especie de Spokenword,con acción artística
 donde podamos interactuar con los visitantes, llevaremos un aroma de los
 protagonistas de Ulises, sus viajes, sus tensiones, anhelos o reflexiones y acciones
-(....) a los pasillos de la facultad de Telecomunicaciones.
+(....) a la calle, al espacio publico, a la plaza donde se asienta Zebras, en la
+Plaza Balneario San Miguel, 3, en Almeria
 
 Un lugar y contexto realmente simbólico dado lo que quería y pretendía comunicar
 Joyce con esta obra literaria que va más allá de lo escrito sobre el papel… Joyce
