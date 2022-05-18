@@ -27,5 +27,7 @@ Utilzando [ZFS](https://en.wikipedia.org/wiki/ZFS)  podemos tomar el control de 
 
 Una charla sobre ZFS, casos de uso, ciclo de vida, errores comunes, calculo de discos y espacio disponible, algunos comandos estandar para la administracion, y ejemplos practicos 
 
+Un taller en el que meteremos mano en el hardware, montaremos un zpool y le haremos perrerias para ver algunas de las features de ZFS
+
 
 
