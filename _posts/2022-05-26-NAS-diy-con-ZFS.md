@@ -6,8 +6,8 @@ title: "NAS diy con ZFS"
 description: "Charla"
 
 #Fecha
-startDate: 2022-05-26T18:00
-endDate: 2022-05-26T20:00
+startDate: 2022-06-09T18:00
+endDate: 2022-06-09T20:00
 
 #Lugar
 place: "La Jaqueria"
@@ -31,3 +31,7 @@ Un taller en el que meteremos mano en el hardware, montaremos un zpool y le hare
 
 
 
+---
+
+## algunos enlaces:
+- la [historia de OpenZFS](https://openzfs.org/wiki/History)
