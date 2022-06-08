@@ -6,12 +6,12 @@ title: "ProtocoloUlises@Zebras"
 description: "Una performance / instalación en torno al centenario de la publicacion de Ulises de James Joyce"
 
 #Fecha
-startDate: 2022-06-16T17:30
-endDate: 2022-06-16T20:00
+startDate: 2022-06-16T19:00
+endDate: 2022-06-16T21:00
 
 #Lugar
 place: "Libreria Zebras"
-street: "Avda Cabo de Gata"
+street: "Plaza Balneario San Miguel"
 locality: "Almeria"
 postalCode: "04007"
 
