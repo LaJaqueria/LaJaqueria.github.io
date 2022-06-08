@@ -54,6 +54,11 @@ En este contexto de comunicación total Ulises puede ser un precedente de
 comandos…para ejecutar partes de nuestro pensamiento o creatividad nunca
 utilizadas o por descubrir…de ahí que Ulises sea ahora…Un Protocolo…
 
+- Entrevista en InteralmeriaTV sobre el evento:
+
+<video src="https://lajaqueria.org/recursos/aGenteUlises/aGenteUlises_Almeria_is_different.mp4" controls="controls" style="max-width: 640px;">
+</video>
+
 ---
 
 La primera iteracion del evento se produjo en [Granabot](https://lajaqueria.org/actividades/2022/04/28/protocolo-ulises-granabot.html).
