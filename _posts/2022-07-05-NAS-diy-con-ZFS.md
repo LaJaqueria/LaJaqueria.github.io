@@ -6,8 +6,8 @@ title: "NAS diy con ZFS"
 description: "Charla"
 
 #Fecha
-startDate: 2022-06-09T18:00
-endDate: 2022-06-09T20:00
+startDate: 2022-07-05T18:00
+endDate: 2022-07-05T20:00
 
 #Lugar
 place: "La Jaqueria"
