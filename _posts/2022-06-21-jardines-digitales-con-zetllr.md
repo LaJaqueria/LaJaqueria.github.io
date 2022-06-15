@@ -32,6 +32,8 @@ apuntar todo lo que estás aprendiendo y qué relaciones existen entre ellos den
 + De esta forma puedes organizar tus ideas, mantener el conocimiento y crear nuevas
 conexiones con los conceptos aprehendidos.
 
+![Notas originales de Niklas Luhmann. Pictures alliance DPA](https://lajaqueria.org/recursos/varios/tarjetas_ilustracion_digital_garden_Niklas_Luhmann.png)
+
 ## Descripción
 
 Un "jardín digital", o Zettlekasten, es un método para escribir notas usado en investigación. La idea
