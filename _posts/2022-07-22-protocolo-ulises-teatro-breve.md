@@ -19,9 +19,6 @@ category: actividades
 user: La Jaquería
 ---
 
-![imagen](https://lajaqueria.org/recursos/aGenteUlises/cartel_bloomsday.jpg)
-
-
 Propuesta tecnologica/artistica/performativa para celebrar el centenario de la publicacion de la novela Ulises de James Joyce. 
 
 Nuestro proyecto es una performance donde interactuamos con el publico, en formato reducido, sobre el mito de Ulises y su vigencia en estos tiempos revueltos.
@@ -32,9 +29,9 @@ En este contexto de comunicación total Ulises puede ser un precedente de
 comandos…para ejecutar partes de nuestro pensamiento o creatividad nunca
 utilizadas o por descubrir…de ahí que Ulises sea ahora…Un Protocolo…
 
-[foto1](https://lajaqueria.org/recursos/aGenteUlises/ulis_01.jpg)
-[foto2](https://lajaqueria.org/recursos/aGenteUlises/ulis_02.jpg)
-[foto3](https://lajaqueria.org/recursos/aGenteUlises/ulis_03.jpg)
+![foto1](https://lajaqueria.org/recursos/aGenteUlises/ulis_01.jpg)
+![foto2](https://lajaqueria.org/recursos/aGenteUlises/ulis_02.jpg)
+![foto3](https://lajaqueria.org/recursos/aGenteUlises/ulis_03.jpg)
 
 ---
 
