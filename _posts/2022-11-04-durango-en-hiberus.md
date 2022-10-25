@@ -19,7 +19,7 @@ category: actividades
 user: La Jaquería
 ---
 
-Charla abierta sobre el Proyecto Durango, de la mano de La Jaqueria, en Hiberus Almeria
+Charla abierta sobre el Proyecto Durango, de la mano de La Jaqueria, en [Hiberus Almeria](https://www.hiberus.com/)
 
 
 ![cartel](https://lajaqueria.org/recursos/varios/durango.png)
