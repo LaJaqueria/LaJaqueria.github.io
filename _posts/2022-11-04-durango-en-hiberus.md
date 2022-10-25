@@ -3,7 +3,7 @@ layout: actividad
 
 #Datos del Evento
 title: "Charla abierta sobre el proyecto Durango"
-description: "como hacer un pc desde cero del hardware al software"
+description: "Cómo hacer un pc desde cero, del hardware al software"
 
 #Fecha
 startDate: 2022-11-04T17:00
