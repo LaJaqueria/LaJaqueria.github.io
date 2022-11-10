@@ -2,8 +2,8 @@
 layout: actividad
 
 #Datos del Evento
-title: "Talleres Creativos Sorpresa - Al Carbón le gusta el agua""
-description: "l tercer viernes de cada mes os proponemos un Taller Creativo, de la mano del Colectivo Yo-Yo"
+title: "Talleres Creativos Sorpresa - Al Carbon le gusta el agua""
+description: "el tercer viernes de cada mes os proponemos un Taller Creativo, de la mano del Colectivo Yo-Yo"
 
 #Fecha
 startDate: 2022-11-18T17:30
@@ -25,7 +25,7 @@ user: La Jaquería
 
 Impartidonpor Colectivo YoYo. 17,30-19h #presencial#
 
-》Para esta primera convocatoria, lleva un carboncillo, un trapito y un picel..., el resto te espera en La Jaquería...y..sorpresa! Verás qué técnica y procesos creativos trabajamos...
+Para esta primera convocatoria, lleva un carboncillo, un trapito y un picel..., el resto te espera en La Jaquería...y..sorpresa! Verás qué técnica y procesos creativos trabajamos...
 
 Info general:
 
@@ -36,7 +36,7 @@ Taller mensual// soci@s gratis /eventual 10eur/mes o hacerse soci@
 Cada convocatoria se dirá qué debe llevar de material el personal (resto estará en La Jaquería...jiji).
 
 
- Los materiales y el título del taller serán las pistas para esta súper ginkana creativa...
+Los materiales y el título del taller serán las pistas para esta súper ginkana creativa...
 
 Colectivo YoYo (con Sol Úbeda a la cabeza,  profesora de artes, y pintora, como mediadora)  colabora altruistamente en este taller para todo el curso.
 
@@ -46,9 +46,7 @@ Inscribete en nuestro correo :
 
 lajaqueria@gmail.com
 
- // lajaqueriia.org // @lajaqueria
-
- ó pásate por allí ese día un poquito antes y te inscribes
+ o pásate por allí ese día un poquito antes y te inscribes
 
 ...aforo limitado...
 
