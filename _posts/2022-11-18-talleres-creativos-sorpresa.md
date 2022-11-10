@@ -2,8 +2,8 @@
 layout: actividad
 
 #Datos del Evento
-title: "Talleres Creativos Sorpresa"
-description: "Al carbón le gusta el agua"
+title: "Talleres Creativos Sorpresa - Al Carbón le gusta el agua""
+description: "l tercer viernes de cada mes os proponemos un Taller Creativo, de la mano del Colectivo Yo-Yo"
 
 #Fecha
 startDate: 2022-11-18T17:30
@@ -19,13 +19,39 @@ category: actividades
 user: La Jaquería
 ---
 
-El tercer viernes de cada mes os proponemos un Taller Creativo, de la mano del Colectivo Yo-Yo, y con la mediación de Sol Úbeda, profesora de artes y pintora
+18 de Noviembre,  primer Taller creativo Sorpresa en La Jaquería:
 
-Talleres para todos los publicos. Niños a partir de 10 años, acompañados.
+"Al carbón le gusta el agua"
 
-Socios, gratis
+Impartidonpor Colectivo YoYo. 17,30-19h #presencial#
 
-Cada convocatoria se dirá qué es necesario llevar... los materiales y el título del taller serán las pistas para esta súper ginkana creativa
+》Para esta primera convocatoria, lleva un carboncillo, un trapito y un picel..., el resto te espera en La Jaquería...y..sorpresa! Verás qué técnica y procesos creativos trabajamos...
+
+Info general:
+
+Taller mensual// soci@s gratis /eventual 10eur/mes o hacerse soci@
+
+3°viernes de cada mes
+
+Cada convocatoria se dirá qué debe llevar de material el personal (resto estará en La Jaquería...jiji).
+
+
+ Los materiales y el título del taller serán las pistas para esta súper ginkana creativa...
+
+Colectivo YoYo (con Sol Úbeda a la cabeza,  profesora de artes, y pintora, como mediadora)  colabora altruistamente en este taller para todo el curso.
+
+Para todos los públicos. *niños a partir de 10, acompañados.
+
+Inscribete en nuestro correo :
+
+lajaqueria@gmail.com
+
+ // lajaqueriia.org // @lajaqueria
+
+ ó pásate por allí ese día un poquito antes y te inscribes
+
+...aforo limitado...
+
 
 ![cartel](https://lajaqueria.org/recursos/varios/taller_creativo.jpg)
 
