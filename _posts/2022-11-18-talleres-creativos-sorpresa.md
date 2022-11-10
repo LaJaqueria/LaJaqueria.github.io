@@ -2,7 +2,7 @@
 layout: actividad
 
 #Datos del Evento
-title: "Talleres Creativos Sorpresa - Al Carbon le gusta el agua""
+title: "Talleres Creativos Sorpresa - Al Carbon le gusta el agua"
 description: "el tercer viernes de cada mes os proponemos un Taller Creativo, de la mano del Colectivo Yo-Yo"
 
 #Fecha
@@ -29,7 +29,10 @@ Para esta primera convocatoria, lleva un carboncillo, un trapito y un picel..., 
 
 Info general:
 
-Taller mensual// soci@s gratis /eventual 10eur/mes o hacerse soci@
+Taller mensual
+
+soci@s gratis 
+soci@ eventual 10eur/mes o hacerse soci@
 
 3°viernes de cada mes
 
