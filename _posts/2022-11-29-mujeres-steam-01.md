@@ -19,8 +19,8 @@ category: actividades
 user: La Jaquería
 ---
 
-## CICLO DE CHARLAS CON COLOQUIO "MUJER STEAM"
-### Una serie de mujeres fuera de seri
+# CICLO DE CHARLAS CON COLOQUIO "MUJER STEAM"
+## Una serie de mujeres fuera de serie
 
 Desde La Jaquería deseamos dar relevancia a una serie de mujeres que realizan trabajos (o proyectos) dentro del ámbito multidisciplinar denominado STEAM (término anglosajón, que traducido al español sería Ciencia, Tecnología, Ingeniería, Artes y Matemáticas).
 Para ello hemos invitado a varias profesionales de diferentes ámbitos de la creación, relacionada con las artes y las tecnologías diversas, la ciencia (incluyendo en esta las matemáticas, ingenierías, biología...) y también la emprendeduría…, o varias de estos ámbitos a la vez.
@@ -31,7 +31,7 @@ En el ciclo escucharemos sus experiencias en su campo profesional. y después po
 
 ![cartel](https://lajaqueria.org/recursos/varios/mujeres_steam02.jpg)
 
-Información adicional: 
+## Información adicional: 
 
 Cada invitada tiene un perfil distinto, pero todas son brillantes en su profesión, y por eso las debemos conocer, pues enriquecen nuestra sociedad y dan ejemplo para el futuro…, en el camino hacia la Igualdad real y palpable.
 
@@ -41,8 +41,8 @@ La Jaquería, único, por el momento, hackspace en Almería, es una Asociación 
 
 Nuestras actividades y propuestas intentan dinamizar en este sentido (difuminar las barreras o líneas rojas entre artes y ciencias o tecnologías) al resto de la población que se quiera unir a nuestras actividades o proyectos, haciéndose socios o colaborando eventualmente…
 
-## 29 Noviembre. // Presentación del ciclo en la EAA
-### Ana Mora. Fotógrafa de arquitectura e interiorismo.
+# 29 Noviembre. // Presentación del ciclo en la EAA
+## Ana Mora. Fotógrafa de arquitectura e interiorismo.
 Además es pionera en utilización de drones para fotografía de arquitectura exterior en Almería.
 
 ![cartel](https://lajaqueria.org/recursos/varios/mujeres_steam01.jpg)
