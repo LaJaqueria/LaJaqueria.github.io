@@ -18,6 +18,7 @@ postalCode: "04003"
 category: actividades
 user: La Jaquería
 ---
+![cartel](https://lajaqueria.org/recursos/varios/cartelRetroBASIC.gif)
 
 El club de desarrollo retro de La Jaquería, prepara la sesión mensual dando un taller sobre el lenguaje de programación BASIC.
 
