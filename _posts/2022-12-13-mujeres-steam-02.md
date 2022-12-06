@@ -42,7 +42,7 @@ La Jaquería, único, por el momento, hackspace en Almería, es una Asociación 
 Nuestras actividades y propuestas intentan dinamizar en este sentido (difuminar las barreras o líneas rojas entre artes y ciencias o tecnologías) al resto de la población que se quiera unir a nuestras actividades o proyectos, haciéndose socios o colaborando eventualmente…
 
 # 13 Diciembre. 
-## Carmen Vázquez - Bioarquitecta, construcciones sostenibles, medición de espacios saludables"
+## Carmen Vázquez - Bioarquitecta, construcciones sostenibles, medición de espacios saludables
 
 
 ![cartel](https://lajaqueria.org/recursos/varios/mujeres_steam03.jpg)
