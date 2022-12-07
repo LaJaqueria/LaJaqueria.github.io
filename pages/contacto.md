@@ -60,7 +60,11 @@ Para ello suscribimos el <a href="https://www.contributor-covenant.org/es/versio
         </div>
       </div>
 
-     <a href="https://lajaqueria.org/aviso-legal/">Aviso Legal</a>
+      <div class="row">
+        <div class="col-xs">
+     <a href="https://lajaqueria.org/avisolegal/">Aviso Legal</a>
+        </div>
+      </div>
     </div>
  </div>
 </div>
