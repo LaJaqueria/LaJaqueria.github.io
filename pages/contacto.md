@@ -60,14 +60,7 @@ Para ello suscribimos el <a href="https://www.contributor-covenant.org/es/versio
         </div>
       </div>
 
-      <div class="row">
-        <div class="col-xs">
-        <i class="svg-icon-contact phone"></i>
-        </div>
-        <div class="col-lg">
-          {{site.info-asociacion.telefono}}
-        </div>
-      </div>
+     <a href="https://lajaqueria.org/aviso-legal/">Aviso Legal</a>
     </div>
  </div>
 </div>
