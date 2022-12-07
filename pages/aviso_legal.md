@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contacto
+title: Aviso Legal
 permalink: /avisolegal/
 ---
 <div class="containter">
