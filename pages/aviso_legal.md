@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contacto
-permalink: /contacto/
+permalink: /avisolegal/
 ---
 <div class="containter">
   <div class="row">
