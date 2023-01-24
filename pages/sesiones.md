@@ -38,8 +38,8 @@ permalink: /sesiones/
 	integrarse en nuestra comunidad.
     <h2>Calendario</h2>
     Para que Estes al día, hemos creado un calendario donde publicaremos todas las actividades y puedas ver los próximos eventos.
-    [Calendario Actividades La Jaquería](https://calendar.google.com/calendar/embed?src=b9017a8a105cdeb2d9139e741371d808f9daeef9de74a4d8a1be7606c1f5223f%40group.calendar.google.com&ctz=Europe%2FMadrid).
-    <iframe src="https://calendar.google.com/calendar/embed?src=b9017a8a105cdeb2d9139e741371d808f9daeef9de74a4d8a1be7606c1f5223f%40group.calendar.google.com&ctz=Europe%2FMadrid" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <a href="https://calendar.google.com/calendar/embed?src=b9017a8a105cdeb2d9139e741371d808f9daeef9de74a4d8a1be7606c1f5223f%40group.calendar.google.com&ctz=Europe%2FMadrid">Calendario Actividades La Jaquería</a>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FMadrid&showCalendars=0&mode=AGENDA&showTabs=0&showPrint=0&title=Actividades%20La%20Jaquer%C3%ADa&src=YjkwMTdhOGExMDVjZGViMmQ5MTM5ZTc0MTM3MWQ4MDhmOWRhZWVmOWRlNzRhNGQ4YTFiZTc2MDZjMWY1MjIzZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60" style="border:solid 1px #777" width="450" height="600" frameborder="0" scrolling="no"></iframe>
     </div>
 
 </div>
