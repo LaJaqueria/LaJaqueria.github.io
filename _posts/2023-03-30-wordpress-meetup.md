@@ -18,10 +18,11 @@ postalCode: "04003"
 category: actividades
 user: WPAlmeria
 ---
+
 ![logo](https://lajaqueria.org/recursos/varios/logo_wp.png)
 
 
-##Detalles
+## Detalles
 
 ¡Bienvenidos al meetup de WordPress! En esta ocasión, hablaremos sobre la introducción de WordPress y las diferencias entre WordPress.com y WordPress.org. Aprenderemos a montar nuestro propio WordPress de forma local, lo que nos permitirá tener un mayor control sobre nuestro sitio web y personalizarlo a nuestro gusto.
 
