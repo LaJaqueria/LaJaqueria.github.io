@@ -2,8 +2,8 @@
 layout: actividad
 
 #Datos del Evento
-title: "Mujeres STEAM - Mela García-Pérez"
-description: "Ingeniera"
+title: "Mujeres STEAM - Gema Sirvent"
+description: "Filóloga, Escritora y Editora"
 
 #Fecha
 startDate: 2023-03-28T18:30
@@ -43,8 +43,7 @@ Nuestras actividades y propuestas intentan dinamizar en este sentido (difuminar 
 
 # 28 Marzo
 ## GEMA SIRVENT
-Editora y escritora
-Especialista en libro album y narrativa visual
+Editora de Libra Albedrío y escritora de literatura infantil, especializada en libro álbum y narrativa visual. Formadora para mediadores y profesionales del libro álbum. Promotora de lectura...
 
 ![cartel](https://lajaqueria.org/recursos/varios/mujeres_steam06.jpg)
 
