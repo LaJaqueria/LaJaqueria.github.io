@@ -27,7 +27,7 @@ Kicad, es un software de código abierto, que nos permitirá diseñar nuestros c
 
 En este taller de dos partes, vamos a ver como podemos crear desde cero un circuito electrónico, y poder renderizar cada componente y ver como quedaría. Esta será la primera sesión, y daremos la siguiente el día 5 de Mayo.
 
-El taller será impartido por parte del Club de desarrollo Retro de La Jaquería; como parte del Proyecto [Durango](https://durangoretro.com); dando este taller nuestro compañero [Carlos Santiesteban](https:/twitter.com/zuiko21).
+El taller será impartido por parte del Club de desarrollo Retro de La Jaquería; como parte del Proyecto [Durango](https://durangoretro.com); dando este taller nuestro compañero [Carlos Santisteban](https:/twitter.com/zuiko21).
 
 Para asistir al taller, solo es necesario que traigas tu portátil para poder utilizar Kicad.
 
