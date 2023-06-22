@@ -3,7 +3,7 @@ layout: actividad
 
 #Datos del Evento
 title: "Taller con Martí"
-description: "Escuchar lo invisible
+description: "Escuchar lo invisible"
 
 #Fecha
 startDate: 2023-06-28T16:00
