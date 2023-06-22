@@ -19,7 +19,7 @@ category: actividades
 user: La Jaquería
 ---
 
-![imagen](https://lajaqueria.org/recursos/durango/taller_sonido_experimental.jpg)
+![imagen](https://lajaqueria.org/recursos/varios/taller_sonido_experimental.jpg)
 
 Taller con Martí
 
