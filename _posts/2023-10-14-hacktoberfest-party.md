@@ -19,7 +19,7 @@ category: actividades
 user: La Jaquería
 ---
 
-![Logo HTF 2023](https://lajaqueria.org/recursos/varios/logo-htf-vertical.png)
+![Logo HTF 2023](https://lajaqueria.org/recursos/varios/htf2023vert.PNG)
 
 Este año se cumplen 10 años del evento Hacktoberfest; donde se ayuda a contribuir a proyectos libres a través de Github o Gitlab. Este año queremos celebrarlo en la asocación La Jaquería y la comunidad Python Almería.
 
