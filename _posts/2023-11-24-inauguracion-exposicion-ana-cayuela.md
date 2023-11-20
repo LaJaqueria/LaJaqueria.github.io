@@ -2,7 +2,7 @@
 layout: actividad
 
 #Datos del Evento
-title: "Inauguración Exposicion"
+title: "Inauguración Exposicion La Intimidad que somos de Ana Cayuela"
 description: "La Intimidad que somos"
 
 #Fecha
