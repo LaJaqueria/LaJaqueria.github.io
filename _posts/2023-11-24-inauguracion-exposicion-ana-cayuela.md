@@ -18,6 +18,7 @@ postalCode: "04007"
 category: actividades
 user: La Jaquería
 ---
+![Ana Cayuela Cartel](https://lajaqueria.org/recursos/2023-11-24/ANA_CAYUELA_3.png)
 
 Este viernes, 24/11/23, a las 18h inauguramos Ciclo de Fotógrafas de/en Almería, en nuestra sede de La Jaquería.
 Y será de la mano de la cineasta y fotógrafa Ana Cayuela y de la curadora e Historiadora del Arte Lucía López.
