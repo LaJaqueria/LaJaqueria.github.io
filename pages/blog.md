@@ -3,8 +3,6 @@ layout: page
 permalink: /blog/
 ---
 
-# Blog
-
 Aquí puedes encontrar noticias y artículos relacionados con las temáticas que trabajamos en la jaquería.
 
 <div class="posts">
