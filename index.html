@@ -33,17 +33,15 @@ Todo ello estimulando lo colectivo tanto como lo personal, la cercanía entre ig
             {% endfor %}
         </ul>
         <p><a href="/sesiones" class="button">Ver todas las actividades</a></p>
-	<h3>Anotaciones</h3>
+	<h3>Últimos Artículos del Blog</h3>
         {% assign curDate = site.time | date: "%Y-%m-%d" %}
         <ul>
-            {% for post in site.categories.post limit:3 %}
+            {% for post in site.categories.blog limit:3 %}
             {% assign date = post.date | date: "%Y-%m-%d" %}
-            {% if date <= curDate %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endif %}
             {% endfor %}
         </ul>
-        <p><a href="/anotaciones" class="button">Ver todas las anotaciones</a></p>
+        <p><a href="/blog" class="button">Ver todas los Artículos</a></p>
 	
     </div>
 </div>

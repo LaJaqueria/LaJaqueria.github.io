@@ -52,9 +52,7 @@ footer-links:
 
 # Build settings
 markdown: kramdown
-plugins:
-
-
+plugins: []
   # Exclude these files from your production _site
 exclude:
   - Gemfile
