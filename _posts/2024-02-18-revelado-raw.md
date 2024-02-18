@@ -39,7 +39,7 @@ rojos, verdes y azules). Como recomendación general se debe usar siempre que se
 también tenemos LMMSE y IGV, que son algoritmos optimizados para imágenes con alto nivel de ruido. Por último tenemos RCD, que está optimizado para imágenes 
 con muchas formas circulares. El resto de algoritmos incluídos en Raw Therapee son más antiguos y en general no los usaremos.
 
-Abramos nuestra foto con Raw Therapee ([Aquí puedes descargar la usada de ejemplo](/recursos/2024-02-18/IMGP0001.PEF).) , pongamos un par de lupas 
+Abramos nuestra foto con Raw Therapee ([Aquí puedes descargar la usada de ejemplo](/recursos/2024-02-18/IMGP0001.PEF).) , pongamos unas cuantas lupas 
 al 300% de zoom y vayamos a la pestaña Raw. Aquí podemos controlar que algoritmo de interpolación se utiliza y sus posibles parámetros. 
 Si estamos ante una foto tomada con bajo ISO, dejaremos AMaZE, si tenemos una foto tomado con un nivel alto de ISO, probaremos con LMMSE ó IGV. 
 En el caso de una fotografía en la que predominen las formas circulares, probaremos con RCD. El resto de parámetros de configuración los dejamos por defecto.
@@ -77,3 +77,80 @@ ajuste fino de los dos anteriores, pero lo manipularemos igual, si vemos la foto
 el azul.
 
 ![Captura 4](/recursos/2024-02-18/captura_04.png)
+
+
+# 3. Reescalado de niveles (Exposure)
+
+Éste es el paso más importante y que más impacto tendrá en el proceso de generar la imagen, por lo que debemos invertir en el tanto tiempo cómo sea necesario.
+Éste paso requiere de cierto entrenamiento, así que no te preocupes si las primeras decenas de fotos no te salen del todo bien.
+El sensor de nuestra cámara tiene una respuesta lineal a diferencia de nuestro sentido de la vista que tiene una respuesta logarítmica a los estímulos luminosos.
+Este paso consiste en convertir los valores RGB lineales a logarítmicos.
+Las herramientas de procesado Raw, por motivos históricos, suelen llamar a ésto "Ajuste de la exposición" o similar, pero este nombre puede llevarnos a confusión, 
+ya que aunque haciendo el reescalado se puede corregir la exposición, una foto por muy bien expuesta que esté necesitará necesariamente hacer reescalado 
+para pasar de niveles lineales a logarítmicos.
+Éste paso es tan importante y delicado que requiere su propio tutorial. Toda la pestaña Exposure está dedicada a éste paso, dentro de esta pestaña hay 
+numerosas herramientas que hacen cambios sutiles en el reescalado, cada uno con una finalidad. En este tutorial nos vamos a centrar en la herramienta 
+fundamental, la curva de niveles (Tone Curves).
+Entramos en la pestaña Exposure, y nos vamos a Tone Curve 1. Ésta curva es el control básico del reescalado, básicamente define una función que asigna a cada 
+nivel de entrada un nuevo nivel de salida. Al poner aquí una curva en forma de S estamos haciendo el paso de lineal a logarítmico. Modificando sutilmente 
+la curva conseguimos cambios drásticos en la imagen. De ahí su delicadeza y dificultad. Pulsando el botón Auto matched tone curve, generamos una curva 
+calculada automáticamente, que puede ser un buen punto de partida. Si pulsamos la flechita, eliminamos la curva, lo que permite hacerla desde cero.
+
+![Captura 5](/recursos/2024-02-18/captura_05.png)
+
+
+# 4. GIMP
+
+Una vez realizados estos pasos, vamos a pasar la foto a GIMP, para hacer los ajustes finales. Para ello pulsamos sobre el botón Enviar a editor externo.
+
+![Captura 6](/recursos/2024-02-18/captura_06.png)
+
+Si no se abriese la imagen con GIMP, tendremos que configurar el editor externo que queremos usar. Para ello abrimos una nueva ventana de Raw Therapee
+sin abrir ninguna foto, y en ajustes, pestaña general tenemos la opción de seleccionar el editor externo que queremos usar.
+
+![Captura 7](/recursos/2024-02-18/captura_07.png)
+
+Una vez en gimp, seleccionamos la herramienta Niveles.
+
+![Captura 8](/recursos/2024-02-18/captura_08.png)
+
+El triángulo de la izquierda controla los tonos oscuros, el de la derecha los tonos claros, y el del centro ajusta el contraste. Deslizaremos sutilmente 
+el triángulo de la izquierda hacia la derecha, el de la derecha hacia la izquierda, y el del centro a uno u otro lado según nos agrade el resultado. 
+Pulsamos OK cuándo estemos satisfechos con el resultado.
+
+![Captura 9](/recursos/2024-02-18/captura_09.png)
+
+Y por último enfocamos la imagen un poco con la máscara de enfoque.
+
+![Captura 10](/recursos/2024-02-18/captura_10.png)
+
+Los valores por defecto suelen funcionar bien en la mayoría de los casos, no obstante si queremos más o menos enfoque, cambiaremos el valor del Radio.
+Ponemos el zoom al menos al 100% para ver los cambios y vemos como queda. Una vez nos guste el resultado, pulsamos OK.
+
+![Captura 11](/recursos/2024-02-18/captura_11.png)
+
+Ya sólo nos queda guardar la imagen. Guardaremos una versión en el formato nativo de GIMP, que usaremos cada vez que queramos imprimir una copia, y otra 
+versión en jpg para nuestras redes sociales.
+
+![Captura 12](/recursos/2024-02-18/captura_12.png)
+
+Dejamos las opciones por defecto, nos aseguramos de estar en la carpeta correcta (¡ojo! Raw therapee usa por defecto la carpeta temporal del sistema), le 
+ponemos un nombre y guardamos nuestra foto.
+
+![Captura 13](/recursos/2024-02-18/captura_13.png)
+
+Por último la exportamos en JPG
+
+![Captura 14](/recursos/2024-02-18/captura_14.png)
+
+Igual que antes, comprobamos que el nombre y la ruta sean los adecuados y que no machacamos ningún archivo.
+
+![Captura 15](/recursos/2024-02-18/captura_15.png)
+
+Ponemos los ajuestes de JPG que consideremos oportunos, al menos un 90% de calidad.
+
+![Captura 16](/recursos/2024-02-18/captura_16.png)
+
+Con esto ya tenemos nuestra foto terminada.
+
+![Foto terminada](/recursos/2024-02-18/IMGP0001.jpg)
