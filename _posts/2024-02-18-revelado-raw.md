@@ -3,7 +3,7 @@ layout: post
 
 title: Revelado digital de fotografías RAW
 description: Podríamos pensar que el proceso de generar el archivo jpg a partir de los datos del sensor CCD de nuestra cámara es un proceso algorítmico con poco margen de maniobra. En este artículo veremos por qué esto no es así.
-date: 2024-02-17
+date: 2024-02-18
 author: "Emilio LB"
 category: blog
 user: La Jaquería
@@ -12,7 +12,11 @@ user: La Jaquería
 # Introducción
 A priori podríamos pensar que el proceso de generar el archivo jpg a partir de los datos del sensor CCD de nuestra cámara es un proceso algorítmico con
 poco margen de maniobra. En realidad, se trata de un proceso que es una mezcla de ciencia y arte y que con el suficiente entrenamiento, podemos conseguir 
-resultados mucho mejores haciéndolo a mano que dejando que la cámara lo haga de forma automática.
+resultados mucho mejores haciéndolo a mano que dejando que la cámara lo haga de forma automática. En este artículo vamos a usar [Raw Therapee](http://rawtherapee.com/) 
+y [GIMP](https://www.gimp.org/). Ambas son herramientas libres disponibles para Linux, Windows y Mac OS. Si estamos usando Linux, usaremos 
+nuestro gestor de paquetes habitual para instalarlas desde los repositorios de la distro. Para el caso de Windows, nos iremos a la web de 
+cada uno de los dos programas y descargaremos el instalador. Los usuarios de Mac, bueno, que usen el sistema que sea que se use en Mac OS para instalar 
+software.
 
 Una foto es una imagen bidimensional (un archivo jpg) que representa una escena de un modo similar a cómo lo percibe nuestro sentido de la vista.
 El sensor de nuestra cámara funciona de una forma muy distinta a cómo lo hace nuestra vista, es por esto que es necesario realizar un procesamiento 
@@ -21,10 +25,10 @@ empezaremos abriendo la foto con Raw Therapee, dónde realizaremos el procesado 
 blancos y Reescalado de niveles. Una vez realizados estos tres pasos, pasaremos la foto a GIMP, y realizaremos dos ajustes finales que mejorarán nuestra 
 foto, Ecualizado y enfoque. Veamos cada uno de estos pasos en detalle.
 
-# Dedicatoria
-
-Sirva este artículo de humilde homenaje a mi abuelo Joaquín 
-quién me enseñó a disparar en manual y revelar con photoshop
+> **Dedicatoria**
+>
+>*Sirva este artículo de humilde homenaje a mi abuelo Joaquín 
+>quién me enseñó a disparar en manual y revelar con photoshop*
 
 # 1. Interpolación de Píxeles (Demosaicing)
 El sensor CCD de nuestra cámara está formado por una cuadrícula de celdas fotosensibles. Si por ejemplo tenemos una cámara de 10 megapíxeles, tendremos 
@@ -88,7 +92,7 @@ Este paso consiste en convertir los valores RGB lineales a logarítmicos.
 Las herramientas de procesado Raw, por motivos históricos, suelen llamar a ésto "Ajuste de la exposición" o similar, pero este nombre puede llevarnos a confusión, 
 ya que aunque haciendo el reescalado se puede corregir la exposición, una foto por muy bien expuesta que esté necesitará necesariamente hacer reescalado 
 para pasar de niveles lineales a logarítmicos.
-Éste paso es tan importante y delicado que requiere su propio tutorial. Toda la pestaña Exposure está dedicada a éste paso, dentro de esta pestaña hay 
+Éste paso es tan importante y delicado que requiere su propio tutorial. Toda la pestaña Exposure está dedicada a este paso, dentro de esta pestaña hay 
 numerosas herramientas que hacen cambios sutiles en el reescalado, cada uno con una finalidad. En este tutorial nos vamos a centrar en la herramienta 
 fundamental, la curva de niveles (Tone Curves).
 Entramos en la pestaña Exposure, y nos vamos a Tone Curve 1. Ésta curva es el control básico del reescalado, básicamente define una función que asigna a cada 
@@ -106,7 +110,7 @@ Una vez realizados estos pasos, vamos a pasar la foto a GIMP, para hacer los aju
 ![Captura 6](/recursos/2024-02-18/captura_06.png)
 
 Si no se abriese la imagen con GIMP, tendremos que configurar el editor externo que queremos usar. Para ello abrimos una nueva ventana de Raw Therapee
-sin abrir ninguna foto, y en ajustes, pestaña general tenemos la opción de seleccionar el editor externo que queremos usar.
+sin abrir ninguna foto, y en ajustes, pestaña general, tenemos la opción de seleccionar el editor externo que queremos usar.
 
 ![Captura 7](/recursos/2024-02-18/captura_07.png)
 
@@ -147,10 +151,14 @@ Igual que antes, comprobamos que el nombre y la ruta sean los adecuados y que no
 
 ![Captura 15](/recursos/2024-02-18/captura_15.png)
 
-Ponemos los ajuestes de JPG que consideremos oportunos, al menos un 90% de calidad.
+Ponemos los ajustes de JPG que consideremos oportunos, al menos un 90% de calidad.
 
 ![Captura 16](/recursos/2024-02-18/captura_16.png)
 
-Con esto ya tenemos nuestra foto terminada.
+Con esto ya tenemos nuestra foto terminada. En este artículo hemos aprendido el proceso básico para convertir los datos RAW del sensor de 
+nuestra cámara a un bonito JPG. Tanto Raw Therapee como GIMP disponen de numerosas herramientas para editar nuestras fotos, aquí nos hemos 
+centrado en los ajustes básicos con el objetivo de hacer una introducción a la fotografía RAW. Espero que os haya gustado, cualquier duda, 
+comentario o crítica es bienvenido en los canales habituales de La Jaquería.
+
 
 ![Foto terminada](/recursos/2024-02-18/IMGP0001.jpg)
