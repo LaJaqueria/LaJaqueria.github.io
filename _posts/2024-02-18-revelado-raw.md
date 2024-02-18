@@ -158,7 +158,7 @@ Ponemos los ajustes de JPG que consideremos oportunos, al menos un 90% de calida
 Con esto ya tenemos nuestra foto terminada. En este artículo hemos aprendido el proceso básico para convertir los datos RAW del sensor de 
 nuestra cámara a un bonito JPG. Tanto Raw Therapee como GIMP disponen de numerosas herramientas para editar nuestras fotos, aquí nos hemos 
 centrado en los ajustes básicos con el objetivo de hacer una introducción a la fotografía RAW. Espero que os haya gustado, cualquier duda, 
-comentario o crítica es bienvenido en los canales habituales de La Jaquería.
+comentario o crítica es bienvenida en los canales habituales de La Jaquería.
 
 
 ![Foto terminada](/recursos/2024-02-18/IMGP0001.jpg)
