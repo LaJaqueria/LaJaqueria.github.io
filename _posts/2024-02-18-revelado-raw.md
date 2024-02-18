@@ -23,7 +23,7 @@ foto, Ecualizado y enfoque. Veamos cada uno de estos pasos en detalle.
 
 # Dedicatoria
 
-Sirva este tutorial de humilde homenaje a mi abuelo Joaquín 
+Sirva este artículo de humilde homenaje a mi abuelo Joaquín 
 quién me enseñó a disparar en manual y revelar con photoshop
 
 # 1. Interpolación de Píxeles (Demosaicing)
@@ -45,3 +45,35 @@ Si estamos ante una foto tomada con bajo ISO, dejaremos AMaZE, si tenemos una fo
 En el caso de una fotografía en la que predominen las formas circulares, probaremos con RCD. El resto de parámetros de configuración los dejamos por defecto.
 
 ![Captura 1](/recursos/2024-02-18/captura_01.png)
+
+
+# 2. Ajuste de blancos (White balance)
+El color de los objetos que vemos se ve afectado por el color de la luz que los ilumina. Sin embargo nuestro cerebro tiene un mecanismo de compensación, 
+que nos permite que veamos colores similares bajo condiciones de iluminación muy dispares. el objetivo de este paso es imitar este comportamiento. Visto 
+desde el punto de vista de la fotografía, cuándo la escena que fotografiamos se encuentra iluminada por una luz que no sea blanca, la foto tomada tendrá 
+lo que se conoce como una dominante, parecerá como si la foto estuviese coloreada del color de la fuente de luz. Se trata de contrarrestar este efecto.
+
+Aquí tenemos dos opciones para realizar este ajuste, una semiautomática que consiste en seleccionar dentro de la imagen una zona de color blanco o 
+gris, y con ello se calcula el ajuste de blancos, o el ajuste manual.
+
+Empezaremos con el ajuste semiautomático, para ello, en la pestaña color, dentro de White balance activamos la herramienta Pick y pinchamos en 
+alguna zona de la imagen que sea de color blanco o gris. El desplegable Size nos permite elegir el tamaño de la muestra. Podemos ir probando 
+hasta encontrar una que de buenos resultados. 
+
+![Captura 2](/recursos/2024-02-18/captura_02.png)
+
+Si no encontramos ninguna, o queremos afinar el resultado, pasamos a hacerlo de forma manual.
+Para ello, tomaremos como punto de partida el resultado anterior o probamos con alguno de los ajustes preestablecidos del desplegable method. 
+Puede ser el calculado por la cámara (Camera) o alguno de los ajustes fijos que incluye, Daylight (día soleado), Cloudy (día nublado), 
+Shade (sombra), Tungsten (Bombilla de tungsteno). Escogeremos el que mejor resultado de de esta lista y manualmente lo terminaremos de ajustar. 
+
+![Captura 3](/recursos/2024-02-18/captura_03.png)
+
+Fíjate que cada uno de los tres parámetros que se pueden ajustar (Temperature, Tint, 
+Blue red equalizer) tiene una pareja de colores. El primero tiene en un lado azul y en otro amarillo. La forma de ajustar este control es la siguiente, si 
+vemos la foto azulada lo deslizaremos suavemente hacia el amarillo, si vemos la foto amarillenta, deslizaremos el control hacia el azul. Lo mismo haremos 
+con el siguiente, si vemos la foto verdosa, lo moveremos hacia el magenta, si la vemos rosada, lo moveremos hacia el verde. El último control sirve cómo un 
+ajuste fino de los dos anteriores, pero lo manipularemos igual, si vemos la foto azulada, lo moveremos hacia el rojo y si la vemos rojiza, lo moveremos hacia 
+el azul.
+
+![Captura 4](/recursos/2024-02-18/captura_04.png)
