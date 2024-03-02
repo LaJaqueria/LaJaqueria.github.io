@@ -25,5 +25,9 @@ h (hache) para ir a la izquierda y l (ele) para ir a la derecha.
 * Para guardar y salir, pulsamos :wq (dos puntos, uve doble, qu)
 * Para buscar una palabra, en el modo navegación pulsamos / (barra) y escribimos el texto a buscar. Para ir pasando al siguiente usamos n (ene) y para ir 
 al anterior, N (n mayúscula)
-* Para insertar una lína vacía debajo del cursor, en el modo navegación pulsamos o. Se insertará una nueva línea y pasaremos al modo edición
+* Para insertar una línea vacía debajo del cursor, en el modo navegación pulsamos o. Se insertará una nueva línea y pasaremos al modo edición
+* Para eliminar una línea, en el modo navegación pulsamos :d (dos puntos de). Seguiremos en el modo navegación después de éste comando.
+* Para eliminar varias líneas, en el modo navegación pulsamos :d seguido del número de líneas, por ejemplo 
+para borrar diez líneas :d10 (dos puntos, de, uno, cero)
 * Para ir al final del documento, en el modo navegación pulsaremos G (g mayúscula)
+* Para ir al inicio del documento, en el modo navegación pulsamos gg (g dos veces)
