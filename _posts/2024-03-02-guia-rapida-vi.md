@@ -2,7 +2,7 @@
 layout: post
 
 title: Guía rápida VI
-description: Vi es el editor de texto universal en sistemas GNU/Linux
+description: Aprende a usar el editor Vi en 10 minutos.
 date: 2024-03-02
 author: "Emilio LB"
 category: blog
