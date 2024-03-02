@@ -3,7 +3,7 @@ layout: post
 
 title: Guía rápida VI
 description: Vi es el editor de texto universal en sistemas GNU/Linux
-date: 2024-02-18
+date: 2024-03-02
 author: "Emilio LB"
 category: blog
 user: La Jaquería
