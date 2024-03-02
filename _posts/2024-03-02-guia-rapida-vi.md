@@ -21,7 +21,7 @@ h (hache) para ir a la izquierda y l (ele) para ir a la derecha.
 
 # Comandos básicos
 Para ejecutar los comandos, debemos estar en el modo navegación. Para asegurarnos de estar en modo navegación, pulsamos antes 
-del comando la tecla escape.
+del comando la tecla escape (ESC).
 * Para salir sin guardar, pulsamos :q! (dos puntos, qu, admiración)
 * Para guardar, pulsamos :w (dos puntos, uve doble)
 * Para guardar y salir, pulsamos :wq (dos puntos, uve doble, qu)
