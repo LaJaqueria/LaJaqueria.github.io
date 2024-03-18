@@ -126,7 +126,7 @@ Cuando el responsable del repositorio realice la integración, el estado de la P
 
 ![Captura 18](/recursos/2024-03-18/Captura_18.png)
 
-# 6. Resolución de conflictos
+# 7. Resolución de conflictos
 
 Al integrar los cambios de una rama a otra, es posible que aparezcan ***conflictos***, ésto significa 
 que la misma línea ha sido cambiada de dos formas distintas y git no sabe con cuál quedarse. Al realizar 
@@ -141,7 +141,7 @@ editar el archivo eliminado las marcas y dejando el contenido adecuado según nu
 
 ![Captura 20](/recursos/2024-03-18/Captura_20.png)
 
-# 7. Estrategias de integración
+# 8. Estrategias de integración
 
 Para integrar el trabajo de una rama a otra en git, podemos usar dos estrategias distintas de integración, 
 ***merge*** (la usada en los pasos anteriores) y ***rebase***.
