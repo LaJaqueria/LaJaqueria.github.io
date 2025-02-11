@@ -2,6 +2,7 @@
 layout: post
 
 title: Creamos una máquina de refrescos
+description: En este tutorial, José y yo os enseñamos cómo crear vuestra propia máquina de refrescos. Una forma divertida de aprender en familia.
 page_description: En este tutorial, José y yo os enseñamos cómo crear vuestra propia máquina de refrescos. Una forma divertida de aprender en familia.
 date: 2025-02-11
 author: "Raúl Jiménez Ortega y José Jiménez Cano"

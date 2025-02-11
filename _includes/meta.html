@@ -3,12 +3,16 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
+    
     {% if page.page_description %}
     <meta name="description" content="{{ page.page_description }}">
     <meta property="og:description" content="{{ page.page_description }}" />
-    {% else %}
+    {% else if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    {% else %}
+    <meta name="description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
@@ -24,3 +28,8 @@
     {% if page.canonical_url %}
     <link rel="canonical" href="{{ page.canonical_url | absolute_url }}">
     {% endif %}
+
+
+
+
+ 
