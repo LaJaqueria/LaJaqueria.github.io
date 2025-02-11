@@ -2,11 +2,12 @@
 layout: post
 
 title: Creamos una máquina de refrescos
-description: En este tutorial, José y yo os enseñamos cómo crear vuestra propia máquina de refrescos. Una forma divertida de aprender en familia.
+page_description: En este tutorial, José y yo os enseñamos cómo crear vuestra propia máquina de refrescos. Una forma divertida de aprender en familia.
 date: 2025-02-11
 author: "Raúl Jiménez Ortega y José Jiménez Cano"
 category: blog
 image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/creamos-una-maquina-de-refrescos/we-created-a-soda-machine-thumb-en.webp
+canonical_url: 'https://www.rauljimenez.info/es/blog/we-created-a-soda-machine'
 user: La Jaquería
 ---
 
@@ -16,8 +17,9 @@ user: La Jaquería
 ℹ️ This article was originally <a href="https://www.rauljimenez.info/blog/we-created-a-soda-machine">published in Raul's personal blog also in English</a>.
 </div>
 
-{% if page.image %}<meta property="og:image" content="{{ page.image }}"/>{% endif %}
+
 <meta property="og:description" content="En este tutorial, José y yo os enseñamos cómo crear vuestra propia máquina de refrescos. Una forma divertida de aprender en familia"/>
+
 
 Buenas!, somos [Raúl](https://www.rauljimenez.info/docs/about-me/my-journey) y José (padre e hijo), y estamos encantado de contribuir a este blog con nuestro primer artículo.
 
