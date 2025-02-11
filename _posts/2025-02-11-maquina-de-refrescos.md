@@ -25,8 +25,10 @@ user: La Jaquería
 Buenas!, somos [Raúl](https://www.rauljimenez.info/docs/about-me/my-journey) y José (padre e hijo), y estamos encantado de contribuir a este blog con nuestro primer artículo.
 
 Para quienes no nos conozcáis, nos hemos unido a La Jaquería para:
-1. Rodearnos de peersonas como vosotras, mentes inquietas, personas con cultura [hacker](https://en.wikipedia.org/wiki/Hacker_culture) y [maker](https://es.wikipedia.org/wiki/Cultura_maker).
-2. Y para animarnos a crear más cosas juntos ☺️. Si alguien se quiere unir a nosotros ¡que nos avise! 😁
+1. Rodearnos de personas como vosotras, mentes inquietas, personas con cultura [hacker](https://en.wikipedia.org/wiki/Hacker_culture) y [maker](https://es.wikipedia.org/wiki/Cultura_maker).
+2. Y para animarnos a crear más cosas juntos ☺️. 
+
+Así que si alguien se quiere unir a nosotros... ¡que nos avise! 😁.
 
 Bueno, hoy os vamos a hablar del primer proyecto que hemos hecho, esta máquina de refrescos:
 
