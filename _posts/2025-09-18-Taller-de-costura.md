@@ -2,7 +2,7 @@
 layout: actividad
 
 #Datos del Evento
-title: "Taller de Costure
+title: "Taller de Costura"
 description: "Taller participativo"
 
 #Fecha
