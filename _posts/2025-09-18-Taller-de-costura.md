@@ -18,5 +18,31 @@ postalCode: "04007"
 category: actividades
 user: La Jaquería
 ---
+
+Ya estamos de vuelta en este curso 202-26, jaquerienses y amig@s
+
+Volvemos de vacaciones con renovadas energías...
+
+Para este 18 de Septiembre empezamos fuerte con este taller de costura!
+
+
+Sesiones sueltas o un pack de 5 (o varias)...durante 5 jueves consecutivos (salvo que algún día lo cambiemos, pero en principio son los jueves tarde)
+
+
+Nuestra profe aprendió patronaje en Italia y desea compartir sus tips esenciales para aprender a confeccionae una falda, blusa o pantalon... 
+Y en cada sesión,crearemos un pequeño maniquiquí con lo aprendido...
+
+
+Apuntaos!
+
+
+Inscripción en tf. De contacto: 624562280  
+o en nuestro correo: lajaqueria@gmail.com
+
+
+Costureo y buena vibra donde aprender, comentar y preguntar Cómo demonio se hace una falda??, por ejemplo...jiji...
+#jaqueriactividades #makers #costura #corteyconfeccion #hilar en colaboración con @_poesiaatrapada_
+
+
 ![taller de costura Cartel](https://lajaqueria.org/recursos/2025-09-18/cartel.jpg)
 
