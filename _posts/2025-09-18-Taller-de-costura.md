@@ -19,28 +19,28 @@ category: actividades
 user: La Jaquería
 ---
 
-Ya estamos de vuelta en este curso 202-26, jaquerienses y amig@s
+Ya estamos de vuelta en este curso 2025-26, jaquerienses y amig@s
 
 Volvemos de vacaciones con renovadas energías...
 
-Para este 18 de Septiembre empezamos fuerte con este taller de costura!
+Para este 18 de Septiembre empezamos fuerte con un TALLER DE COSTURA!!
 
 
-Sesiones sueltas o un pack de 5 (o varias)...durante 5 jueves consecutivos (salvo que algún día lo cambiemos, pero en principio son los jueves tarde)
+Sesiones sueltas o un pack de 5 (o varios)...durante 5 jueves consecutivos (salvo que algún día lo cambiemos, pero en principio serán los jueves tarde)
 
 
-Nuestra profe aprendió patronaje en Italia y desea compartir sus tips esenciales para aprender a confeccionae una falda, blusa o pantalon... 
-Y en cada sesión,crearemos un pequeño maniquiquí con lo aprendido...
+Nuestra profe aprendió patronaje en Italia y desea compartir sus tips esenciales para aprender a confeccionar una falda, blusa o pantalon... 
+Y en cada sesión, crearemos un pequeño maniquí con lo aprendido...
 
 
 Apuntaos!
 
 
-Inscripción en tf. De contacto: 624562280  
+Inscripción en teléfono de contacto: 624562280  
 o en nuestro correo: lajaqueria@gmail.com
 
 
-Costureo y buena vibra donde aprender, comentar y preguntar Cómo demonio se hace una falda??, por ejemplo...jiji...
+Costureo y buena vibra donde aprender, comentar y preguntar Cómo demonios se hace una falda (o cómo #g@%r se suben los bajos de un pantalón)??, por ejemplo...jiji...
 #jaqueriactividades #makers #costura #corteyconfeccion #hilar en colaboración con @_poesiaatrapada_
 
 
