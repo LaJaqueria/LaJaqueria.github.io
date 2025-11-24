@@ -11,17 +11,13 @@ La jaquería se debe a sus socios para poder realizar todo tipo de actividades y
 
 ## ¿Que beneficios tiene hacerse socio?
 
-La condición de socios permite acceder al local de la asociación y hacer uso de sus instalaciones y recursos como puede ser el taller, impresora 3D, e incluso los ordenadores y herramientas que hay disponibles.
+La condición de socios permite hacer uso de sus recursos, participar en las asambleas y formar parte de su vida activa.
 
 Además, hacerse socio te da prioridad en las distintas actividades e incluso acceder a descuentos si estas tienen algún coste.
 
 ## ¿Cuanto cuesta hacerse socio?
 
-Existe distintas cuotas para los socios en función de distintos factores:
-
-* Cuota Normal: 20€ al mes.
-* Cuota Estudiante/Parado: 6€ al mes. Debe acreditarse esta situación presentando el carnet de estudiante o certificación de situación de desempleo.
-* Cuota Familiar: Un socio puede traer a más miembros de su familia por 18€ al trimestre extra. Es decir, 60€+18€ al trimestre para toda la familia. Los menores de 14 años no pagan cuota, siempre que vengan acompañados por un tutor que si sea socio.
+Existe una única modalidad de cuota universal, de 50€ al año.
 
 ## ¿Cómo hacerse socio?
 
