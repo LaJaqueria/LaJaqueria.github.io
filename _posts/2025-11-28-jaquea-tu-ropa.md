@@ -18,6 +18,9 @@ postalCode: "04007"
 category: actividades
 user: La Jaquería
 ---
+TALLER MENSUAL. 
+
+Cada mes iremmos anunciando ubicación y fecha concreta.
 
 
 ![cartel](https://lajaqueria.org/recursos/jaquea_tu_ropa.jpg)
