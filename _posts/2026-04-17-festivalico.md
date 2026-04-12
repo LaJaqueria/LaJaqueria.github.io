@@ -6,7 +6,7 @@ title: "La Jaqueria en El Festivalico"
 description: "El festivalico es un festival de fanzines y autoedición"
 
 #Fecha
-startDate: 2025-11-17T11:00
+startDate: 2025-11-18T11:00
 endDate: 2025-11-18T19:00
 
 #Lugar
@@ -28,24 +28,25 @@ La temática versa sobre La comida, y podréis disfrutar el mundo fanzine con su
 ![cartel](https://lajaqueria.org/recursos/festivalico.gif)
 
 
-Esto no cuentan elles mismes!:
+Esto nos cuentan elles mismes!:
 
 “El festivalico es un festival de fanzines y autoedición
 En el festival encontrarás puestos de fanzineres que intercambian y venden sus fanzines y creaciones.
  Si haces fanzines ya sabes de qué estamos hablando, así que echa la convocatoria: ¡todavía queda alguna mesa por asignar! Si no haces fanzines todavía, no puedes dejar de pasarte por el festival los días 17 y 18 de abril y ver todo lo que han preparado les seleccionades!
 
-Encontrarás el formulario para pillar mesa en lodelfestivalico.es !
+Encontrarás el formulario para pillar mesa en [lodelfestivalico.es](https://lodelfestivalico.es)
 
 La participación es gratuita. 
 
 En esta primera edición, la mitad de los puestos disponibles estarán reservados a creadorxs almerienses, con el fin de generar redes y empezar a crear escuela en nuestra ciudad.”
 
 Cuándo: 17 (desde la tarde) y 18 de abril (toda la mañana)
-Dónde:  Ecuela de Arte de Almería
+Dónde:  Escuela de Arte de Almería
 	  Pl. Pablo Cazard, 1, 04001, Almería. 
 
 La programación incluye talleres, conciertos y otras actividades. 
 Síguenos en ig en @lo_del_festivalico para no perderte nada!
 
-Más info en: lodelfestivalico.es  @lo_del_festivalico
+Más info en: 
+[lodelfestivalico.es](https://lodelfestivalico.es)  [@lo_del_festivalico](https://www.instagram.com/lo_del_festivalico/)
 
