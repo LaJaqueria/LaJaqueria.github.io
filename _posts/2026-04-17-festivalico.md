@@ -32,9 +32,10 @@ Esto nos cuentan elles mismes!:
 
 “El festivalico es un festival de fanzines y autoedición
 En el festival encontrarás puestos de fanzineres que intercambian y venden sus fanzines y creaciones.
- Si haces fanzines ya sabes de qué estamos hablando, así que echa la convocatoria: ¡todavía queda alguna mesa por asignar! Si no haces fanzines todavía, no puedes dejar de pasarte por el festival los días 17 y 18 de abril y ver todo lo que han preparado les seleccionades!
+ Si haces fanzines ya sabes de qué estamos hablando, si no haces fanzines todavía, no puedes dejar de pasarte por el festival los días 17 y 18 de abril y ver todo lo que han preparado les seleccionades!
 
-Encontrarás el formulario para pillar mesa en [lodelfestivalico.es](https://lodelfestivalico.es)
+AQUI tienes toda la programción:
+[lodelfestivalico.es](https://lodelfestivalico.es)
 
 La participación es gratuita. 
 
