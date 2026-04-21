@@ -34,8 +34,7 @@ Esto nos cuentan elles mismes!:
 En el festival encontrarás puestos de fanzineres que intercambian y venden sus fanzines y creaciones.
  Si haces fanzines ya sabes de qué estamos hablando, si no haces fanzines todavía, no puedes dejar de pasarte por el festival los días 17 y 18 de abril y ver todo lo que han preparado les seleccionades!
 
-AQUI tienes toda la programción:
-[lodelfestivalico.es](https://lodelfestivalico.es)
+[AQUI](https://lodelfestivalico.es) tienes toda la programación.
 
 La participación es gratuita. 
 
