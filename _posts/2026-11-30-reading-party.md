@@ -30,7 +30,11 @@ CIENCIA, FANZINE...)
 ESO SÍ, OLVIDA TU MÓVIL
 (...y trae un cojín, o silla de camping...,
 si quieres estar más cómod@)
+
+
 HAY VARIAS PAUTAS A SEGUIR:
+
+
 1. PRESENTACIÓN Y REGLAS (10MIN)
 2. LECTURA INDIVIDUAL (30MIN)
 3. HABLAMOS CON QUIEN TENEMOS AL
@@ -39,8 +43,9 @@ LADO SOBRE NUESTRO LIBRO(20MIN)
 5. HABLAMOS EN GRUPO SOBRE
 NUESTRAS LECTURAS...(20MIN)
 6. DESPEDIDA Y QUEDADA SIGUIENTE
-Evento en Librería Picasso - 30 /11/2026. De 18h a 20h
-NOTA DE PRENSA
+
+
+
 El próximo 30 de Noviembre, a las 18h.,
 tendrá lugar en la planta baja (o sótano) la
 segunda convocatoria de nuestra pionera
