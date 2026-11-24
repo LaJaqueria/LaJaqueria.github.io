@@ -13,7 +13,7 @@ La Jaquería es un grupo de personas que hemos decidido organizarnos en torno a 
 Para todo esto, pensamos que promover talleres, actividades, charlas, banco de proyectos personales o conjuntos o simplemente, "quedadas" siempre enriquezedoras, es una forma de unir nuestras pasiones con la divulgación, la difusión, etc., y entre personas de diferentes perfiles (de todas edades o condiciones, intereses y situación de conocimientos en campo tecnológico o creativo...).
 <br>
 
-El escenario y el espacio (no siempre físico) de cooperación, co-creación y co-diseño que fomenten el aprendizaje colectivo es vital para nosotros, por ello, en estos momentos, tenemos un lugar concreto donde encontrarnos (en todas las acepciones de este término Encuentro), en el número 44 de la calle La Vega, muy cerca de El Palmeral.
+El escenario y el espacio (no siempre físico) de cooperación, co-creación y co-diseño que fomenten el aprendizaje colectivo es vital para nosotros.
 <br>
 Nos gustaría favorecer la creación de grupos de trabajo multidisciplinares que generen soluciones novedosas en base a sus experiencias individuales previas, buscando dar solución a problemas sociales (empleo, identidad, conflitos entre superestructuras...), empoderamiento social, acercamiento a la sociedad de la tecnología sin caer en la "tecnologización" deshumanizada...
 <br>
