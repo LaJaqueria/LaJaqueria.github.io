@@ -3,15 +3,15 @@ layout: actividad
 
 #Datos del Evento
 title: "Reading Party"
-description: "Trae tu libro a la primera fiesta de la lectura"
+description: "Trae tu libro a la fiesta de la lectura"
 
 #Fecha
-startDate: 2026-04-23T17:00
-endDate: 2026-04-23T19:00
+startDate: 2026-11-30T18:00
+endDate: 2026-11-30T20:00
 
 #Lugar
-place: "Escuela de Arte y Diseño Carlos Pérez Siquier"
-street: "Plaza Pablo Cazard, 1"
+place: "Libreria PICASSO"
+street: "Calle Reyes Catolicos, 16"
 locality: "Almeria"
 postalCode: "04001"
 
